@@ -1,5 +1,29 @@
 # Sobre Tag Manager
 
+## [Google Analytics Tools](https://ga-dev-tools.appspot.com/#about)
+
+![Tools and demos](images/analytics-tools-cover.png)
+
+Herramientas para realizar pruebas de integración con el API de Google Analytics
+
+- API Query Explorer
+- Campaign URL builder
+- Documentación para Ecommerce
+- GA4 Events
+
+## Pruebas auto-tagging AdWords
+
+Se debe verficar que en los enlaces finales aputandos en las campañas de AdWords contangan el parametro 'gclid'
+
+- Realizar una prueba agregando el parámetro ?gclid=Test-123
+- Examinar que el parámetro gclid este presente en las url y en caso de existir una redirección no se debe de perder.
+- Se puede usar la herramienta de [Google Tag Assistant](https://get.google.com/tagassistant/) para grabar las solicitudes al sitio y posteriormente analizar el resultado.
+
+**Referencias:**
+
+- [Sobre el parámetro gclid](https://support.google.com/analytics/answer/1714454#zippy=%2Cuntagged-landing-pages%2Cmanually-tagged-ad-destination-urls-missing-information%2Cthird-party-redirects-drop-campaign-related-url-parameters)
+- [Verificar el auto-tagging](https://support.google.com/analytics/answer/2938246?hl=en)
+
 ## Cross Domain - etiquetado manual
 
 Para etiquetar de forma manual todos los enlaces del sitio se puede usar el siguiente script.
