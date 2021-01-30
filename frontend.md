@@ -1,14 +1,16 @@
 # Sobre frontend
 
-## [Framer.com](https://www.framer.com/)
+## Framer
 
 Herramienta para diseñar prototipos para el diseño de interfaces mobiles con flutter.
 
-## Tailwindcss
+- [Framer.com](https://www.framer.com/)
+
+## Tailblocs
 
 Codigos de ejemplo para armar diseños web con Tailwind CSS.
 
-- [Tailblocs](https://tailblocks.cc/)
+- [Tailblocs.cc](https://tailblocks.cc/)
 
 ## Prepros
 
