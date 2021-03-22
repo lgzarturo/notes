@@ -154,7 +154,7 @@ http.headers().frameOptions().sameOrigin()
 http.headers().contentSecurityPolicy("script-src: self")
 http.headers().contentSecurityPolicy("script-src: http://{domain}...")
 
-//Referer policy
+//Referrer policy
 http.headers().referrerPolicy().policy(ReferrerPolicy.ORIGIN)
 ```
 
@@ -255,6 +255,6 @@ jasypt:
 **Referencias:**
 
 - [Formatting Java Time with JSON](https://touk.pl/blog/2016/02/12/formatting-java-time-with-spring-boot-using-json/)
-- [Sobre el uso de parametros de tipo fecha](https://www.baeldung.com/spring-date-parameters)
+- [Sobre el uso de parámetros de tipo fecha](https://www.baeldung.com/spring-date-parameters)
 - [Formato json de LocalTime](https://touk.pl/blog/2016/02/12/formatting-java-time-with-spring-boot-using-json/)
 - [Google Research](https://research.google/pubs/pub45542/)

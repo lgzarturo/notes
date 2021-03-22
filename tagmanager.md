@@ -84,7 +84,7 @@ Para etiquetar de forma manual todos los enlaces del sitio se puede usar el sigu
 - [Multi-Domain tracking](https://www.optimizesmart.com/cross-domain-tracking-in-google-tag-manager/)
 - [Multi-Domain tracking 'Official'][https://support.google.com/analytics/answer/1034342?hl=en]
 - [Cross Domain Tracking With Google Tag Manager](https://www.bounteous.com/insights/2015/06/16/cross-domain-tracking-google-tag-manager/)
-- [Auto Link Domains: Multidominio en Google Analytics vía GTM](https://aukera.es/blog/auto-link-domains/)
+- [Auto Link Domains: Múltiple dominio en Google Analytics vía GTM](https://aukera.es/blog/auto-link-domains/)
 - [Google Analytics Cross Domain Tracking with Google Tag Manager. The Guide](https://www.analyticsmania.com/post/google-analytics-cross-domain-tracking-with-google-tag-manager/)
 
 ## Facebook pixel
