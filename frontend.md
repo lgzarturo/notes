@@ -8,7 +8,7 @@ Herramienta para diseñar prototipos para el diseño de interfaces mobiles con f
 
 ## Tailblocs
 
-Codigos de ejemplo para armar diseños web con Tailwind CSS.
+Códigos de ejemplo para armar diseños web con Tailwind CSS.
 
 - [Tailblocs.cc](https://tailblocks.cc/)
 

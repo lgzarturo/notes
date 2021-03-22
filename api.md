@@ -1,6 +1,6 @@
-# Sobre API's
+# Sobre apis's
 
-## Genericas
+## Genéricas
 
 - RDAP - Obtener información de un Dominio
 

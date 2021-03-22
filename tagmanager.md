@@ -8,12 +8,12 @@ Herramientas para realizar pruebas de integración con el API de Google Analytic
 
 - API Query Explorer
 - Campaign URL builder
-- Documentación para Ecommerce
+- Documentación para e-commerce
 - GA4 Events
 
 ## Pruebas auto-tagging AdWords
 
-Se debe verficar que en los enlaces finales aputandos en las campañas de AdWords contangan el parametro 'gclid'
+Se debe verificar que los enlaces finales estén apuntando a las campañas de AdWords contengan el parámetro 'gclid'
 
 - Realizar una prueba agregando el parámetro ?gclid=Test-123
 - Examinar que el parámetro gclid este presente en las url y en caso de existir una redirección no se debe de perder.
@@ -80,7 +80,7 @@ Para etiquetar de forma manual todos los enlaces del sitio se puede usar el sigu
 
 - [Pruebas](https://jsfiddle.net/lgzarturo/2q0fg8mo/)
 - [Documentación medición multi-dominio](https://developers.google.com/analytics/devguides/collection/analyticsjs/cross-domain#autolink)
-- [Resolver problemas con GA Mutli-dominio](https://www.simoahava.com/analytics/troubleshooting-cross-domain-tracking-in-google-analytics/)
+- [Resolver problemas con GA Múltiple dominio](https://www.simoahava.com/analytics/troubleshooting-cross-domain-tracking-in-google-analytics/)
 - [Multi-Domain tracking](https://www.optimizesmart.com/cross-domain-tracking-in-google-tag-manager/)
 - [Multi-Domain tracking 'Official'][https://support.google.com/analytics/answer/1034342?hl=en]
 - [Cross Domain Tracking With Google Tag Manager](https://www.bounteous.com/insights/2015/06/16/cross-domain-tracking-google-tag-manager/)
