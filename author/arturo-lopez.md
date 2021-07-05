@@ -1,9 +1,9 @@
 ---
 title: "Sobre mí"
-description: "Auditorias web para mejorar la optimización de tu sitio web, obtén más resultados de la publicidad digital."
+description: "Auditorias web para mejorar y optimizar tu sitio web, obtén más resultados con la publicidad digital."
 ---
 
-![Web Developer @arthurolg](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
+![Web Developer Arturo López](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
 Hola, mi nombre es **[Arturo López](https://arthurolg.com "Perfil profesional")**, soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías.
 
@@ -40,26 +40,25 @@ Trabajo con las mejores herramientas y lenguajes de programación disponibles, y
 
 **Estoy comprometido con la comunidad**. Con este sitio busco generar contenido de valor para que otros programadores puedan encontrar ayuda en sus proyectos.
 
-### Consultoría SEM & SEO
+## Consultoría SEM & SEO
 
-Tengo experiencia en la **optimización y posicionamiento** de comercios y profesionales. **Manejamos** la inversión de publicidad, **medimos** resultados, **analizamos** los resultados para **maximizar la conversión y aumentar sus clientes** potenciales.
+Tengo experiencia en **optimizar y mejorar el posicionamiento** de comercios y profesionales. **Manejamos** la inversión de publicidad, **medimos** resultados, **analizamos** los resultados para **maximizar la conversión y aumentar sus clientes** potenciales.
 
-Como experto en metodologías sobre posicionamiento y promoción de sitios web, pongo especial atención al detalle dando prioridad a la optimización de contenido para generar marketing orgánico y posicionamiento natural. Sin embargo, para aumentar el alcance y acelerar los resultados uso **estrategias mediante campañas patrocinadas** por medio de **AdWords** o **Redes Sociales**.
+Como experto en técnicas sobre posicionamiento y promoción de sitios web, pongo especial atención al detalle dando prioridad a la mejora del contenido, con el objetivo de generar un posicionamiento orgánico. Sin embargo, para aumentar el alcance y acelerar los resultados uso **estrategias mediante campañas patrocinadas** por medio de **AdWords** o **Redes Sociales**.
 
-#### Conoce las diferencias y ventajas de combinar el SEO y SEM.
+### Conoce las diferencias y ventajas de combinar el SEO con SEM
 
-La optimización web mejora la posición en los resultados de búsqueda y **los anuncios patrocinados nos ayudan aumentando el alcance en el menor tiempo posible**. Una estrategia exitosa se basa en combinar las herramientas y la experiencia, de esa manera debemos aprovechar el desarrollo de campañas patrocinadas, pero que estas se beneficien de sitios web bien optimizados.
+Optimizar el sitio web, mejora la posición en los resultados de búsqueda y **los anuncios patrocinados nos ayudan aumentando el alcance en el menor tiempo posible**. Una estrategia exitosa se basa en combinar las herramientas y la experiencia, de esa manera debemos aprovechar el desarrollo de campañas patrocinadas, pero que estas se beneficien de sitios web bien optimizados.
 
-#### ¿Para qué me sirve el SEO?
+### ¿Para qué me sirve el SEO?
 
-El acrónimo SEO, significa Search Engine Optimization que en español se traduce como **Optimización de los Motores de Búsqueda**. El objetivo de esta metodología es **mejorar el posicionamiento**, haciendo más visible nuestro sitio web y apareciendo en los primeros resultados, sin embargo, esto es un proceso de optimización constante que se debe de considerar a largo plazo.
+El acrónimo SEO, significa Search Engine Optimization que en español se traduce como **Optimizar los Motores de Búsqueda**. El objetivo de esta técnica es **mejorar el posicionamiento**, haciendo más visible nuestro sitio web y apareciendo en los primeros resultados, sin embargo, esto es un proceso de esfuerzo constante que debe de considerar a largo plazo, con el objetivo de obtener los mejores resultados.
 
 #### ¿Para qué me sirve el SEM?
 
 SEM significa Search Engine Marketing, esto en español se traduce como **Mercadotecnia en Motores de Búsqueda**, que es básicamente posicionamiento de sitios web a través de pago por publicidad. El SEM nos ayuda a crear **campañas de publicidad de pago** que se distribuye a un público objetivo, aumentando drásticamente la visibilidad y porcentaje de convertir clientes.
 
-
-#### Enlaces relacionados
+## Enlaces relacionados
 
 - [Perfil profesional](https://arthurolg.com)
 - [Perfil de LinkedIn](https://www.linkedin.com/in/lgzarturo)
