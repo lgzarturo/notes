@@ -1,4 +1,6 @@
-# Notas sobre programación
+# Bienvenidos
+
+En este blog vas a encontrar artículos sobre tecnología y programación.
 
 - [Uso de API's](api.md)
 - [Tools y tips para FrontEnd](frontend.md)
