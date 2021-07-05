@@ -1,12 +1,6 @@
 ---
-author: "Arturo López"
 title: "¿Qué es el diseño responsivo?"
-date: 2020-12-08
 description: "El diseño web adaptable, es una filosofía de diseño y desarrollo cuyo objetivo es adaptar la apariencia de las páginas web al dispositivo que se esté utilizando para visitarlas."
-tags: ["web-design"]
-categories: ["Diseño web"]
-series: ["Diseño responsivo"]
-type: "post"
 ---
 
 > El diseño no es solo cómo se ve y se siente. _El diseño es cómo funciona_ - **Steve Jobs**
@@ -22,7 +16,7 @@ A continuación menciono algunos beneficios de aplicar diseño responsivo a tu s
 - **Una sola página para todos los tamaños**. Es evidente que este es el mayor beneficio, ya que la página debe ser capaz de ajustarse a cualquier tamaño de pantalla, mejora la indexación del sitio, ya que solo se accede a una URL para todo el contenido
 - **Menor costo de mantenimiento**. Al principio puede ser complicado, ya que hay que tener en cuenta el diseño y adaptarlo a los diferentes tamaños, sin embargo con el tiempo te acostumbras a crear una mejor estructura para el código y a reutilizar fragmentos.
 - **Mejor visualización**. Esto es debido a que dicho sitio se adapta a la pantalla de los dispositivos, haciendo el contenido más fácil de leer. Con esto aseguras un menor porcentaje de rebote, ya que los visitantes que accedan al sitio podrán ver claramente el contenido.
-- **Campañas de marketing**. El problema de tener un sitio para dispositivos móviles y uno para navegadores de escritorio es que con el tiempo uno de los dos quedara rezagado ante el esfuerzo de optimización, campañas de publicidad o posicionamiento. Es mejor contar con una sola dirección URL, así apuntamos todos los esfuerzos y la inversión en un solo lugar asegurando un sitio bien optimizado.
+- **Campañas de marketing**. El problema de tener un sitio para dispositivos móviles y uno para navegadores de escritorio es que con el tiempo uno de los dos quedara rezagado ante el esfuerzo de optimizar el contenido, campañas de publicidad o posicionamiento. Es mejor contar con una sola dirección URL, así apuntamos todos los esfuerzos y la inversión en un solo lugar asegurando un sitio bien optimizado.
 - **Mejor que la competencia**. Un sitio web que se adapte a la pantalla del dispositivo te puede ayudar a mejorar la visibilidad y al retorno de la inversión, si tu competencia no posee un diseño responsivo es mejor que te pongas a trabajar en uno, recuerda que "**puedes llegar a más personas que tus competidores y aumentar tus conversiones**".
 
 ### Otros beneficios

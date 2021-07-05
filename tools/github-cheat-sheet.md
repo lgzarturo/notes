@@ -1,12 +1,6 @@
 ---
-author: "Arturo López"
 title: "Github Search Cheat Sheet"
-date: 2021-03-15
 description: "Realiza búsquedas de código más eficientes con GitHub"
-tags: ["programming", "git"]
-categories: ["development", "programming", "github", "cheat sheet"]
-series: ["GitHub"]
-type: "post"
 ---
 
 La funcionalidad búsqueda en GitHub soporta diferentes operaciones. A continuación expongo las opciones comunes de búsqueda.

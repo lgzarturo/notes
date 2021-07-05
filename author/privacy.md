@@ -5,7 +5,7 @@ description: "Política de privacidad, responsabilidad, seguridad, obtención, u
 
 ## Política de privacidad
 
-En [webdeveloperhints.com](https://webdeveloperhints.com), en adelante *‘este sitio web’*, respetamos su información personal y en vista de cumplir con las políticas de seguridad respectivas concernientes a todo sitio web, que deberían ser obligatorias, informo a ustedes lo siguiente.
+En [webdeveloperhints.com](https://webdeveloperhints.com), en adelante *'este sitio web'*, respetamos su información personal y en vista de cumplir con las políticas de seguridad respectivas concernientes a todo sitio web, que deberían ser obligatorias, informo a ustedes lo siguiente.
 
 ### Privacidad de los datos personales
 
@@ -36,7 +36,7 @@ Al proporcionarnos sus datos personales, estando de acuerdo con la Política de 
 
 El uso de cookies y su dirección IP, tomados por este sitio, se realiza solo con la finalidad de mantenerles un sitio de acuerdo a sus preferencias locales (tales como navegador web usado, sistema operativo, ISP, etc.).
 
-Las "cookies” permiten entregar un contenido ajustado a los intereses y necesidades de nuestros usuarios/visitantes. También podrían usarse "cookies” de Terceros que estén presentes en este Weblog, como anunciantes o publicidad del mismo, con el único fin de proveer informaciones adicionales o relevantes a la Navegación del Usuario en este Sitio Web.
+Las "cookies" permiten entregar un contenido ajustado a los intereses y necesidades de nuestros usuarios/visitantes. También podrían usarse "cookies" de Terceros que estén presentes en este Weblog, como anunciantes o publicidad del mismo, con el único fin de proveer informaciones adicionales o relevantes a la Navegación del Usuario en este Sitio Web.
 
 ### Modificaciones
 
@@ -44,9 +44,9 @@ El sitio web se reserva el derecho de modificar, rectificar, alterar, agregar o 
 
 ### Estadísticas
 
-Para el correcto funcionamiento de este blog, se hacen uso de diversos "cookies", tanto del sitio como de nuestros proveedores (como se expuso en el punto anterior), almacenados en su equipo o mediante el uso de algún script. Tal es el caso de "cookies” de Google Analytics, Tag Manager.
+Para el correcto funcionamiento de este blog, se hacen uso de diversos "cookies", tanto del sitio como de nuestros proveedores (como se expuso en el punto anterior), almacenados en su equipo o mediante el uso de algún script. Tal es el caso de "cookies" de Google Analytics, Tag Manager.
 
-Las "cookies” usadas solo se almacenan en su equipo con fines estadísticos, siendo omitidos los datos que pudieran resultar en recopilación de carácter importante.
+Las "cookies" usadas solo se almacenan en su equipo con fines estadísticos, siendo omitidos los datos que pudieran resultar en recopilación de carácter importante.
 
 Lo invitamos también a leer las políticas de Privacidad de dos de los sistemas de publicidad usados en webdeveloperhints.com, siguiendo los enlaces que se listan a continuación:
 

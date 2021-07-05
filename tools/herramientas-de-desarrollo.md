@@ -1,13 +1,6 @@
 ---
-author: "Arturo López"
 title: "Herramientas y sitios para desarrollo"
-date: 2021-03-16
 description: ""
-tags: ["tools dev"]
-categories: ["herramientas", "desarrollo"]
-series: ["Tools"]
-favorite: true
-type: "post"
 ---
 
 ## Notas de desarrollo

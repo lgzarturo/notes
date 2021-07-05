@@ -16,7 +16,7 @@ Herramientas para realizar pruebas de integración con el API de Google Analytic
 Se debe verificar que los enlaces finales estén apuntando a las campañas de AdWords contengan el parámetro 'gclid'
 
 - Realizar una prueba agregando el parámetro ?gclid=Test-123
-- Examinar que el parámetro gclid este presente en las url y en caso de existir una redirección no se debe de perder.
+- Examinar que el parámetro gclid este presente en las url y en caso de existir una re-dirección no se debe de perder.
 - Se puede usar la herramienta de [Google Tag Assistant](https://get.google.com/tagassistant/) para grabar las solicitudes al sitio y posteriormente analizar el resultado.
 
 **Referencias:**

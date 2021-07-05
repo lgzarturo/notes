@@ -23,4 +23,4 @@ Medida en base a palabras en inglés.
 
 **Referencias:**
 
-- [Pregunta en stackoverflow](https://stackoverflow.com/questions/13932750/tinytext-text-mediumtext-and-longtext-maximum-storage-sizes/35785869#35785869)
+- [Pregunta en StackOverflow](https://stackoverflow.com/questions/13932750/tinytext-text-mediumtext-and-longtext-maximum-storage-sizes/35785869#35785869)

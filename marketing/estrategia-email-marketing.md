@@ -1,12 +1,6 @@
 ---
-author: "Arturo López"
 title: "Crea una estrategia efectiva para tu campaña de correos"
-date: 2019-05-10
 description: "Conecta con tus clientes, creamos tu presencia online para que ganes visibilidad y reconocimiento de marca"
-tags: ["inbound marketing", "estrategia email marketing"]
-categories: ["marketing", "seo", "sem", "email marketing"]
-series: ["Posicionamiento web"]
-type: "post"
 ---
 
 El objetivo es conectar con tus clientes y crear una presencia online para que ganes mayor visibilidad y reconocimiento de marca.
@@ -79,7 +73,7 @@ El **Inbound Marketing** es una **metodología que combina técnicas de publicid
 
 1. **_Atraer_**: Debemos generar **marketing de contenido**, realizar técnicas de SEO y SEM, así como una clara estrategia de gestión de redes sociales, esto con el objetivo de generar más tráfico. Realiza un plan estratégico para la generar contenido con la finalidad de conseguir resultados.
 2. **_Convertir_**: Debes intentar convertir a todo aquel que visite tu sitio web mediante páginas de aterrizaje, llamadas a la acción, formularios de contacto y un lenguaje claro y directo, demostrando sinceridad sobre tus objetivos y los beneficios para el usuario. Lo importante es **convertir el tráfico en una base de datos** de contactos.
-3. **_Cerrar_**: Ya que tienes tu lista de contactos deberás recordar la frase “_El dinero está en la lista_”, así que tendrás que **gestionar a tus prospectos**, integrarlos con un CRM y crear un flujo automatizado de entrega de contenidos de valor adaptado al ciclo de compra del usuario.
+3. **_Cerrar_**: Ya que tienes tu lista de contactos deberás recordar la frase "_El dinero está en la lista_", así que tendrás que **gestionar a tus prospectos**, integrarlos con un CRM y crear un flujo automatizado de entrega de contenidos de valor adaptado al ciclo de compra del usuario.
 4. **_Deleitar_**: Una vez que hayas conseguido clientes, ahora será necesario conservarlos y fidelizarlos para que nos recomienden de manera orgánica. La forma en como debes realizar esto, es que debes mantenerlos satisfechos, **ofrecerles contenido de valor** sumamente útil e interesante y buscar convertir las ventas en recomendaciones.
 
 ### Beneficios de implementar Inbound Marketing
@@ -95,7 +89,7 @@ El **Inbound Marketing** es una **metodología que combina técnicas de publicid
 
 El Inbound Marketing se centra, en técnicas que atraigan al usuario hacia una empresa, sin presionarlo. Es un procedimiento poco agresivo, con el objetivo claro de **_crear clientes fieles a la marca_**.
 
-> La historia del concepto “**Inbound Marketing**” fue acuñado por primera vez en el año 2005 por Brian Halligan, co-fundador y CEO de HubSpot.
+> La historia del concepto "**Inbound Marketing**" fue acuñado por primera vez en el año 2005 por Brian Halligan, co-fundador y CEO de HubSpot.
 
 El marketing y las relaciones públicas se han modificado gracias a la popularidad de la web 2.0 y todo gracias a herramientas de comunicación como **los blogs y redes sociales** que **generan contenido de calidad** relevante para el usuario.
 

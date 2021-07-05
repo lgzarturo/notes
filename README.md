@@ -17,6 +17,7 @@ Espero que el contenido sea de tu agrado.
 ## Programación
 
 - [Buenas practicas de programación](develop/buenas-practicas-de-programacion.md)
+- [4 Etapas para el desarrollo de software](develop/las-4-etapas-del-desarrollo.md)
 
 ---
 

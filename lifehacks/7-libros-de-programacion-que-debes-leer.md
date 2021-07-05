@@ -1,13 +1,6 @@
 ---
-author: "Arturo López"
 title: "7 libros de programación que debes leer"
-date: 2020-08-11
 description: "En este artículo expongo 7 libros que considero importantes para cualquier desarrollador de software"
-tags: ["código limpio"]
-categories: ["programación", "desarrollo"]
-series: ["Tips para programar"]
-favorite: true
-type: "post"
 ---
 
 Desde mi punto de vista la programación de aplicaciones es una forma de arte que está cambiando la manera en como interactuar con la información que nos rodea. Poco a poco las computadoras han cambiado la manera en como nos comunicamos y el oficio de programador cada vez se vuelve más demandante.
@@ -62,4 +55,3 @@ Por último quiero recordarte los objetivos que debes tener siempre presentes al
 - Adopta patrones de diseño y estándares de desarrollo.
 - Acostúmbrate a leer APIs y documentación.
 - Lee más código del que puedas escribir.
-- Prueba, refactoriza, prueba, refactoriza y vuelve a probar.

@@ -1,12 +1,6 @@
 ---
-author: "Arturo López"
 title: "Aparece en las búsquedas de Google"
-date: 2019-03-20
 description: "Puntos importantes que debes tener en cuenta para optimizar tu contenido web, con el objetivo de posicionar tu sitio en Google"
-tags: ["google"]
-categories: ["marketing", "seo"]
-series: ["Posicionamiento web"]
-type: "post"
 ---
 
 ## ¿Cómo hacer para aparecer en las búsquedas de Google?
@@ -15,9 +9,9 @@ En este artículo hablaré de los puntos importantes que debes tener en cuenta p
 
 ### Conoce como optimizar tu contenido para Internet
 
-Para que Google pueda indexar y catalogar tu sitio web, es necesario que apliques una estrategia de optimización "**SEO On-Page**" en cada página de manera individual y es que a los buscadores les gusta que pongas atención a los detalles, así como cumplir con los estándares con un diseño estructurado.
+Para que Google pueda indexar y catalogar tu sitio web, es necesario que apliques una estrategia para optimizar el "**SEO On-Page**" en cada página de manera individual y es que a los buscadores les gusta que pongas atención a los detalles, así como cumplir con los estándares con un diseño estructurado.
 
-El objetivo de este tipo de estrategias de optimización SEO se basa en **aumentar el ranking en los buscadores**, clasificar tu sitio de manera más rápida, lograr que cada página sea indexada y poder sobresalir en las búsquedas orgánicas y lograr maximizar la probabilidad de que al ser más visible **aumenten las visitas**.
+El objetivo de este tipo de estrategias de SEO se basa en **aumentar el ranking en los buscadores**, clasificar tu sitio de manera más rápida, lograr que cada página sea indexada y poder sobresalir en las búsquedas orgánicas y lograr maximizar la probabilidad de que al ser más visible **aumenten las visitas**.
 
 Sin embargo, no todo es miel y dulzura, tendrás que tener paciencia y perseverancia, **tomártelo con calma y trabajar mucho**, ya que deberás entender así como comprender cuál es tu público objetivo, realizar muchas pruebas y analizar los resultados. Y es que en esto del posicionamiento no hay fórmulas mágicas, todo se basa en probar y analizar.
 
@@ -40,8 +34,6 @@ Ahora sí, comencemos con los puntos que te ayudaran a mejorar tú **SEO On-Page
    > [Google nos ofrece una herramienta para saber si nuestro sitio web es amigable con la navegación móvil](https://www.google.com/webmasters/tools/mobile-friendly/).
 9. **Uso de enlaces internos y externos**: Con los enlaces internos **mejora la navegación en tu sitio web** y ayuda en el posicionamiento, así como en el rastreo de los buscadores. Y los enlaces externos nos ayudan en aumentar el ranking de nuestro sitio, así como tener relación con contenido relevante de sitios web con mayor autoridad.
 10. **Micro formatos** o Marcado de Datos Estructurado: Es información que consiste en describir de una manera estandarizada el contenido de nuestro sitio, es una forma de **compartir información con los buscadores y redes sociales**.
-11. **Velocidad del sitio web**: La velocidad de carga juega un papel importante en la optimización SEO, ya que nos ayuda **mejorar la experiencia de uso y previene el porcentaje de rebote**.
+11. **Velocidad del sitio web**: La velocidad de carga juega un papel importante en SEO, ya que nos ayuda **mejorar la experiencia de uso y previene el porcentaje de rebote**.
 
-Ahora ya conoces cuales son algunos de los puntos a tener en cuenta para mejorar tu sitio web, sabemos que es información muy técnica y que en ocasiones es difícil comprender todo lo relacionado con la optimización SEO.
-
-Si eres un experto de marketing, SEO o programador, ayúdanos con tu comentario, ¿Qué otras ideas implementas para mejorar el posicionamiento web? Esperamos que la información sea de ayuda.
+Ahora ya conoces cuales son algunos de los puntos a tener en cuenta para mejorar tu sitio web, sabemos que es información muy técnica y que en ocasiones es difícil comprender todo lo relacionado con el SEO.

@@ -1,12 +1,6 @@
 ---
-author: "Arturo López"
 title: "Crea tu perfil profesional"
-date: 2019-09-10
 description: "Demuestra tu profesionalismo, versatilidad y el emprendedor que llevas dentro"
-tags: ["software"]
-categories: ["startalent", "ats", "candidatos"]
-series: ["Proyectos"]
-type: "post"
 ---
 
 En la actualidad la competencia por los mejores empleos es cada vez más brutal y una ventaja es que podemos acceder a mejores herramientas que nos expongan como personas comprometidas y que aprovechamos la tecnología a nuestro favor.

@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-description: "Auditorias web para mejorar y optimizar tu sitio web, obtén más resultados con la publicidad digital."
+description: "Auditorias web para mejorar y optimizar tu sitio web, obtén más resultados con la publicidad digital"
 ---
 
 ![Web Developer Arturo López](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)

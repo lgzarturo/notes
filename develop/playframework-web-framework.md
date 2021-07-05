@@ -1,21 +1,15 @@
 ---
-author: "Arturo López"
 title: "Play Framework - Build Modern & Scalable Web Apps"
-date: 2018-01-01
-description: ""
-tags: ["playframework"]
-categories: ["java"]
-series: ["Web Frameworks"]
-type: "post"
+description: "Un framework que facilita la creación de aplicaciones con Java y Scala"
 ---
 
 > Play Framework es un marco de aplicación web de código abierto que sigue el patrón arquitectónico modelo-vista-controlador. Está escrito en Scala y se puede usar desde otros lenguajes de programación que se compilan en JVM Bytecode, p. Java - [Wikipedia](https://en.wikipedia.org/wiki/Play_Framework)
 
-El creador de este genial framework (Guillaume Bort) lo define como: Un framework que facilita la creación de aplicaciones con Java y Scala.
+El creador de este genial framework ([Guillaume Bort](http://guillaume.bort.fr)) lo define como: Un framework que facilita la creación de aplicaciones con Java y Scala.
 
 Actualmente este proyecto está en la [versión 2](https://blog.playframework.com/) con soporte nativo de Scala y Java, es una distribución que aún es muy prematura, tiene muchas nuevas características, pero el enfoque de la versión 1.x de play cambia radicalmente.
 
-Posiblemente es debido a la evolución sobre el nuevo lenguaje de moda "SCALA".
+Posiblemente es debido a la evolución sobre el nuevo lenguaje de moda "[SCALA](https://scala-lang.org)".
 
 SCALA promete ser el reemplazo de Java, sin embargo, este post no profundiza en ese tema; Actualmente trabajo con varias versiones de Play (1.1, 1.1.1 y 1.2.4), estas distribuciones las encuentro muy bien definidas y con un rendimiento bastante óptimo.
 

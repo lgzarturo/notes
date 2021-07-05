@@ -1,13 +1,6 @@
 ---
-author: "Arturo López"
 title: "Buenas prácticas con Wordpress"
-date: 2020-12-15
 description: "Este es un listado de ideas y sugerencias para mejorar el rendimiento de un sitio web con Wordpress"
-tags: ["tips", "rendimiento", "seguridad"]
-categories: ["programación"]
-series: ["Wordpress"]
-favorite: true
-type: "post"
 ---
 
 ![Wordpress plugins](https://i.imgur.com/WK3wdDD.png "Lista de recomendaciones para sitios con Wordpress")
@@ -23,7 +16,7 @@ Listado de actividades y plugins recomendados para tener un sitio web en WordPre
   - [WP Cloudflare Super Page Cache](https://wordpress.org/plugins/wp-cloudflare-page-cache/)
 - [ ] Instalar el plugin [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/).
 - [ ] Instalar el plugin [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) para optimizar y comprimir las imágenes del sitio.
-- [ ] Instalar el plugin [GTMetrix](https://wordpress.org/plugins/gtmetrix-for-wordpress/) para revisar los resultados de la optimización.
+- [ ] Instalar el plugin [GTMetrix](https://wordpress.org/plugins/gtmetrix-for-wordpress/) para evaluar el rendimiento del sitio web.
 - [ ] Borrar todos los plugins y temas innecesarios.
 - [ ] Reducir el sistema de versiones de los artículos.
 - [ ] Reducir el tiempo de la papelera de reciclaje.
