@@ -5,15 +5,18 @@ description: "Auditorias web para mejorar la optimización de tu sitio web, obt�
 
 ![Web Developer @arthurolg](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
-Mi nombre es **[Arturo López](https://arthurolg.com "Perfil profesional")**, soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías.
+Hola, mi nombre es **[Arturo López](https://arthurolg.com "Perfil profesional")**, soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías.
 
 Mi trabajo es analizar y proveer soluciones efectivas sin importar el lenguaje, en el transcurso de mi carrera como programador he encontrado que diario aprendes algo nuevo y que de igual forma puedes crear algo diferente, es por eso por lo que me apasiona la programación de sistemas.
 
 Veo un lenguaje solo como una herramienta para alcanzar una meta. Ningún lenguaje es 100% efectivo, eficiente o rápido. Todos se especializan en el área donde fueron creados; y justamente ahí radican sus debilidades o fortalezas.
 
-Actualmente trabajo con Grails(Groovy), Java(Spring Boot, Android, Play Framework), Php(Laravel), JavaScript(Node js, jQuery) y Python(Django). La ventaja de utilizar un framework radica en reutilizar el código y las herramientas que han sido probadas rigurosamente por programadores que marcan la tendencia del desarrollo o por la simple idea: "no es necesario reinventar la rueda"
+> Actualmente trabajo con Grails(Groovy), Java(Spring Boot, Android, Play Framework), Php(Laravel), JavaScript(Node js, jQuery) y Python(Django).
 
-Especialidades:
+La ventaja de utilizar un framework radica en reutilizar el código y las herramientas que han sido probadas rigurosamente por programadores que marcan la tendencia del desarrollo o por la simple idea: "no es necesario reinventar la rueda"
+
+## Especialidades
+
 - Programación Web, Servicio Web REST, Play Framework, JAVA, XML, JavaScript, jQuery
 - He participado en la planeación y creación de sistemas SaaS, CRM, CMS.
 - Lenguajes con los que programó: Java, Python, Ruby, Php.
@@ -21,15 +24,11 @@ Especialidades:
 - Diseño de páginas con HTML y CSS.
 - Administración de proyectos.
 
-### El objetivo de este sitio
+### Mi objetivo
 
-Antes que nada, gracias por visitar este sitio.
+Como especialista busco crear las herramientas que sean útiles, automatizando procesos y creando una relación ganadora entre **tecnología y usabilidad**, lo más importante es tener una actitud de servicio que pueda **superar las expectativas de las empresas que confían en mis habilidades**.
 
-El objetivo de [webdeveloperhints.com](https://webdeveloperhints.com "Tips de desarrollo web y programación") es publicar artículos sobre mis proyectos, ideas, tecnología, programación y todo lo relacionado con desarrollo de software. Aún estoy generando contenido que espero sea de tu agrado.
-
-Como profesionista busco crear las herramientas necesarias, automatizando procesos y creando una relación ganadora entre **tecnología y especialistas**, lo más importante es tener una actitud de servicio que pueda **superar las expectativas de las empresas que confían en mis habilidades**.
-
-**Trabajo usando los estándares de la industria**. Mis desarrollos son sitios **responsivos y optimizadas** para los buscadores, así como para compartirlas en redes sociales mediante el uso de micro formatos que describen mejor el contenido de la página, siendo elementos claves para mejorar la interacción con diversos medios de publicidad digital.
+**Trabajo usando los estándares de la industria**. Mis desarrollos son sitios **responsivos y optimizados** para los buscadores, el contenido es apto para ser compartido en redes sociales mediante el uso de micro formatos, que describen mejor los elementos de la página, siendo puntos claves para mejorar la interacción con diversos medios del Marketing digital.
 
 ### Tecnología
 
@@ -39,7 +38,7 @@ Trabajo con las mejores herramientas y lenguajes de programación disponibles, y
 
 ### Compromiso
 
-**Estoy comprometido con ser una profesionista transparente y capaz de ofrecer los mejores resultados**. Con este sitio busco tener contenido de valor para que mis clientes comprendan el compromiso que ofrezco y que otros profesionistas puedan encontrar contenido que les ayude en sus proyectos.
+**Estoy comprometido con la comunidad**. Con este sitio busco generar contenido de valor para que otros programadores puedan encontrar ayuda en sus proyectos.
 
 ### Consultoría SEM & SEO
 
@@ -53,7 +52,7 @@ La optimización web mejora la posición en los resultados de búsqueda y **los 
 
 #### ¿Para qué me sirve el SEO?
 
-Antes que nada el acrónimo SEO, significa Search Engine Optimization que en español se traduce como **Optimización de los Motores de Búsqueda**. El objetivo de esta metodología es **mejorar el posicionamiento**, haciendo más visible nuestro sitio web y apareciendo en los primeros resultados, sin embargo, esto es un proceso de optimización constante que se debe de considerar a largo plazo.
+El acrónimo SEO, significa Search Engine Optimization que en español se traduce como **Optimización de los Motores de Búsqueda**. El objetivo de esta metodología es **mejorar el posicionamiento**, haciendo más visible nuestro sitio web y apareciendo en los primeros resultados, sin embargo, esto es un proceso de optimización constante que se debe de considerar a largo plazo.
 
 #### ¿Para qué me sirve el SEM?
 

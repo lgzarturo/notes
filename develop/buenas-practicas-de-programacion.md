@@ -1,14 +1,10 @@
 ---
 author: "Arturo López"
 title: "Buenas prácticas de programación"
-date: 2020-12-11
 description: "La Refactorización se aplica como una técnica para reestructurar la estructura interna del código fuente, sin cambiar su comportamiento o el resultado."
-tags: ["código limpio"]
-categories: ["programación"]
-series: ["Tips para programar"]
-favorite: true
-type: "post"
 ---
+
+# Buenas prácticas de programación
 
 ¿Por qué es necesario aplicar buenas prácticas de programación?
 
@@ -32,7 +28,7 @@ La mayoría de los programadores sabemos que la mayor parte del tiempo tenemos q
 
 > "Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso" – _Bill Gates_
 
-### Ideas para mejorar como programador
+## Ideas para mejorar como programador
 
 - Nombre de variables, clases o métodos más descriptivos.
 - Siempre pon atención a la indentación del código.

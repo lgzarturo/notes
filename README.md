@@ -1,6 +1,10 @@
 # 🖖🏻 Bienvenidos
 
-En este blog vas a encontrar artículos sobre tecnología y programación.
+Antes que nada, gracias por visitar este sitio.
+
+En este blog vas a encontrar artículos sobre mis ideas, proyectos, tecnología, programación y todo lo relacionado con desarrollo de software.
+
+Espero que el contenido sea de tu agrado.
 
 - [Uso de API's](api.md)
 - [Tools y tips para FrontEnd](frontend.md)
