@@ -7,6 +7,9 @@ author:
   twitter: lgzarturo
 tag_manager: GTM-53H37XV
 show_downloads: false
+feed:
+  excerpt_only: true
+  tags: true
 
 plugins:
   - jekyll-sitemap
