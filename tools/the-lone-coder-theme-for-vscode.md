@@ -12,9 +12,15 @@ Puedes ver el código fuente y crear tu propio tema, en el siguiente enlace:
 - [The Lone Coder VSCode theme](https://github.com/lgzarturo/the-lone-coder-vscode)
 - [Página del marketplace del tema](https://marketplace.visualstudio.com/items?itemName=lgzarturo.the-lone-coder-vscode&ssr=false)
 
-Recomiendo el uso de la fuente [**Fantasque Sans Mono**](https://github.com/belluzj/fantasque-sans):
+Recomiendo el uso de la fuente [**Fantasque Sans Mono**](https://github.com/belluzj/fantasque-sans)
 
-Enlaces relacionados
+## Configuración
+
+A continuación dejo la configuración que uso en Visual Studio Code.
+
+{% gist fb391b35e89e59fe49040108e6a9fd83 %}
+
+## Enlaces relacionados
 
 - [JetBrains plugin](https://plugins.jetbrains.com/plugin/14906-the-lone-coder)
 - [Recursos](https://github.com/lgzarturo/the-lone-coder/blob/master/docs/screenshots.md)

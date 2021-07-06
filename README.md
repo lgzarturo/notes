@@ -6,7 +6,7 @@ En este blog vas a encontrar artículos sobre mis ideas, proyectos, tecnología,
 
 Espero que el contenido sea de tu agrado.
 
-- [Uso de API's](api.md)
+- [Uso de APIs](api.md)
 - [Tools y tips para FrontEnd](frontend.md)
 - [Tips de Tag Manager](tagmanager.md)
 - [Investigaciones sobre MySQL](mysql.md)
@@ -16,7 +16,7 @@ Espero que el contenido sea de tu agrado.
 
 ## Programación
 
-- [Buenas practicas de programación](develop/buenas-practicas-de-programacion.md)
+- [Buenas practicas de programación](develop/buenas-practicas-de-desarrollo.md)
 - [4 Etapas para el desarrollo de software](develop/las-4-etapas-del-desarrollo.md)
 
 ---

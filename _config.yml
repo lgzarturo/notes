@@ -1,8 +1,14 @@
 theme: jekyll-theme-hacker
 timezone: America/Cancun
+title: Web Developer Hints
+description: Notas de desarrollo y programación
 url: https://webdeveloperhints.com
+author:
+  twitter: lgzarturo
 tag_manager: GTM-53H37XV
 show_downloads: false
+
 plugins:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
