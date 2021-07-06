@@ -1,1 +1,8 @@
 theme: jekyll-theme-hacker
+timezone: America/Cancun
+url: https://webdeveloperhints.com
+tag_manager: G-5L5EXLQW2D
+show_downloads: false
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
