@@ -1,6 +1,7 @@
 ---
 title: "Conseguir talento en el menor tiempo posible"
 description: "Conoce StarTalent, comienza a publicar tus vacantes y atrae perfiles profesionales para tu empresa"
+category: profile
 ---
 
 Conoce StarTalent, comienza a publicar tus vacantes y atrae perfiles profesionales para tu empresa.

@@ -1,4 +1,8 @@
-# Sobre Tag Manager
+---
+title: "Hablemos sobre el Tag Manager"
+description: "Todo sobre como trabajar con Tag Manager, tips y pruebas de implementación"
+category: tag-manager
+---
 
 ## [Google Analytics Tools](https://ga-dev-tools.appspot.com/#about)
 

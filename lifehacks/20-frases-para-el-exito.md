@@ -1,6 +1,7 @@
 ---
 title: "20 Frases para el éxito"
 description: "Aquí te dejo algunas frases que me han gustado y que creo son importantes para mantener el ánimo"
+category: learning
 ---
 
 Hay algunas frases que nos marcan desde la primera vez que las escuchamos, nos dan un poco de inspiración y nos motivan en alcanzar el éxito, así es como poco a poco vamos construyendo nuestro camino, nos ayudan a madurar y crecer como individuos.

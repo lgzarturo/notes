@@ -1,6 +1,7 @@
 ---
 title: "Como instalar MySQL en MacOS"
 description: "Paso a paso de como instalar MySQL en MacOS com Homebrew"
+category: database
 ---
 
 Para realizar la instalación de la última versión de MySQL usa el siguiente comando:

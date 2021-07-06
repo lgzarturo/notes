@@ -1,6 +1,8 @@
 ---
 title: "Ideas para mejorar el posicionamiento web"
 description: "En este artículo quiero exponer algunas ideas y recursos que podemos usar para el mejorar el posicionamiento web de una empresa"
+category: seo
+image: https://i.imgur.com/FQnVWWo.png
 ---
 
 ![SEO y tráfico web](https://i.imgur.com/FQnVWWo.png "Mejora el posicionamiento de tu sitio web")

@@ -1,6 +1,7 @@
 ---
 title: "Aparece en las búsquedas de Google"
 description: "Puntos importantes que debes tener en cuenta para optimizar tu contenido web, con el objetivo de posicionar tu sitio en Google"
+category: seo
 ---
 
 ## ¿Cómo hacer para aparecer en las búsquedas de Google?

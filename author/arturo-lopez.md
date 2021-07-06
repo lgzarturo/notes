@@ -1,6 +1,8 @@
 ---
 title: "Sobre mí"
 description: "Auditorias web para mejorar y optimizar tu sitio web, obtén más resultados con la publicidad digital"
+category: profile
+image: https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg
 ---
 
 ![Web Developer Arturo López](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
@@ -15,6 +17,8 @@ Veo un lenguaje solo como una herramienta para alcanzar una meta. Ningún lengua
 
 La ventaja de utilizar un framework radica en reutilizar el código y las herramientas que han sido probadas rigurosamente por programadores que marcan la tendencia del desarrollo o por la simple idea: "no es necesario reinventar la rueda"
 
+---
+
 ## Especialidades
 
 - Programación Web, Servicio Web REST, Play Framework, JAVA, XML, JavaScript, jQuery
@@ -24,11 +28,15 @@ La ventaja de utilizar un framework radica en reutilizar el código y las herram
 - Diseño de páginas con HTML y CSS.
 - Administración de proyectos.
 
+---
+
 ### Mi objetivo
 
 Como especialista busco crear las herramientas que sean útiles, automatizando procesos y creando una relación ganadora entre **tecnología y usabilidad**, lo más importante es tener una actitud de servicio que pueda **superar las expectativas de las empresas que confían en mis habilidades**.
 
 **Trabajo usando los estándares de la industria**. Mis desarrollos son sitios **responsivos y optimizados** para los buscadores, el contenido es apto para ser compartido en redes sociales mediante el uso de micro formatos, que describen mejor los elementos de la página, siendo puntos claves para mejorar la interacción con diversos medios del Marketing digital.
+
+---
 
 ### Tecnología
 
@@ -36,9 +44,13 @@ Como especialista busco crear las herramientas que sean útiles, automatizando p
 
 Trabajo con las mejores herramientas y lenguajes de programación disponibles, y en el área de marketing digital mi objetivo es medir el desempeño real de las campañas, realizar ajustes y que el cliente tenga el control de sus conversiones.
 
+---
+
 ### Compromiso
 
 **Estoy comprometido con la comunidad**. Con este sitio busco generar contenido de valor para que otros programadores puedan encontrar ayuda en sus proyectos.
+
+---
 
 ## Consultoría SEM & SEO
 

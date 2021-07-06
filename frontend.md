@@ -1,4 +1,8 @@
-# Sobre frontend
+---
+title: "Más información para FrontEnd"
+description: "La programación front end es muy amplia, el ecosistema de JavaScript crece muy rápido, en este artículo expondré lo nuevo que voy implementando y aprendiendo sobre el desarrollo web"
+category: frontend
+---
 
 ## Framer
 

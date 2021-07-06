@@ -1,6 +1,7 @@
 ---
 title: "Crea tu perfil profesional"
 description: "Demuestra tu profesionalismo, versatilidad y el emprendedor que llevas dentro"
+category: profile
 ---
 
 En la actualidad la competencia por los mejores empleos es cada vez más brutal y una ventaja es que podemos acceder a mejores herramientas que nos expongan como personas comprometidas y que aprovechamos la tecnología a nuestro favor.

@@ -1,7 +1,7 @@
 ---
-author: "Arturo López"
 title: "Los 12 mejores lenguajes de programación"
 description: "Este es mi listado de los lenguajes que considero son los más populares en la actualidad"
+category: languages
 ---
 
 Este es mi listado de los lenguajes que considero son los más populares en la actualidad.

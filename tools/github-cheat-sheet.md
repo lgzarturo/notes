@@ -1,6 +1,7 @@
 ---
 title: "Github Search Cheat Sheet"
 description: "Realiza búsquedas de código más eficientes con GitHub"
+category: git
 ---
 
 La funcionalidad búsqueda en GitHub soporta diferentes operaciones. A continuación expongo las opciones comunes de búsqueda.

@@ -1,4 +1,8 @@
-# Sobre MySQL
+---
+title: "Datos interesante sobre MySQL"
+description: "Tipos de datos, consultas y más información sobre MySQL"
+category: databases
+---
 
 ## Tipos de campo para texto
 

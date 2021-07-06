@@ -1,6 +1,8 @@
 ---
 title: "4 Etapas para el desarrollo de software"
 description: "El proceso de crear software son una serie de etapas bien definidas que nos ayuden a determinar los tiempos de desarrollo"
+category: projects
+image: https://i.imgur.com/6AA3GPl.png
 ---
 
 ![Tips de desarrollo](https://i.imgur.com/6AA3GPl.png "Etapas del desarrollo de proyectos")

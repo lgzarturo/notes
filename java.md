@@ -1,4 +1,8 @@
-# Sobre Java
+---
+title: "Prácticas con Java y sus tecnologías"
+description: "Hablemos un poco sobre Java, aquí podrás encontrar tips y respuestas a los problemas comunes con Spring Boot"
+category: backend
+---
 
 ## Spring Boot
 
