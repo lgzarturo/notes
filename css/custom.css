@@ -1,0 +1,28 @@
+p {
+  line-height: 1.8em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+blockquote {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#comments-section {
+  padding: 2em;
+  padding: 2em;
+  border: 1px dashed #b5e853;
+  background: rgba(0,0,0,.4);
+}
+
+#footer {
+  margin-top: 2.5em;
+  border-top: 6px solid #b5e853;
+  background: rgba(0,0,0,.4);
+  color: #b5e853;
+  text-align: center;
+  padding: 1.2em 0;
+}
