@@ -14,11 +14,15 @@ Uso de fuentes con Google Fonts.
 
 {% gist 87a031400e9cdcd0563cbb88e950dcfc %}
 
+---
+
 ## Html5
 
 Template básico para la estructura de un documento en html5.
 
 {% gist 60ca2eedd2ae8f3664cfa276bf8f4830 %}
+
+---
 
 ## Windows Size
 

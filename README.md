@@ -63,5 +63,3 @@ Contenido creado por [Arturo López](author/arturo-lopez.md).
 - [Un poco de arte y dibujo en instagram](https://www.instagram.com/lgzarturo/)
 - [Un lugar para buscar inspiración](https://www.pinterest.com.mx/arthurolg/)
 - [Re-publicando contenido](https://lgzarturo.tumblr.com/)
-
-> Visita mi [política de privacidad](author/privacy.md), así como los [términos y condiciones](author/terms.md).
