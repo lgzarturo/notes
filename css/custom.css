@@ -9,12 +9,12 @@ li {
 blockquote {
   margin-top: 2em;
   margin-bottom: 2em;
+  background: rgba(0,0,0,.3);
 }
 
 #comments-section {
   padding: 2em;
   padding: 2em;
-  border: 1px dashed #b5e853;
   background: rgba(0,0,0,.4);
 }
 
@@ -24,5 +24,6 @@ blockquote {
   background: rgba(0,0,0,.4);
   color: #b5e853;
   text-align: center;
-  padding: 1.2em 0;
+  padding: 1.4em 0;
+  font-size: small;
 }
