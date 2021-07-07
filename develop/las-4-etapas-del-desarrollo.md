@@ -2,10 +2,10 @@
 title: "4 Etapas para el desarrollo de software"
 description: "El proceso de crear software son una serie de etapas bien definidas que nos ayuden a determinar los tiempos de desarrollo"
 category: projects
-image: https://i.imgur.com/6AA3GPl.png
+image: /images/etapas-del-desarrollo-de-software-cover.jpg
 ---
 
-![Tips de desarrollo](https://i.imgur.com/6AA3GPl.png "Etapas del desarrollo de proyectos")
+![Tips de desarrollo](/images/etapas-del-desarrollo-de-software-cover.jpg "Etapas del desarrollo de proyectos")
 
 En el diseño web se involucran al menos dos personajes claves para la construcción de un sitio web. Por un lado tenemos al Programador Web quien asumirá el rol de la parte técnica, es el que aplicara sus conocimientos para el desarrollo del proyecto y por otro lado el Cliente el cual conoce el negocio y los objetivos que se buscan alcanzar.
 
