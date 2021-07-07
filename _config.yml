@@ -1,7 +1,8 @@
 theme: jekyll-theme-hacker
+lang: es_MX
 timezone: America/Cancun
 title: WebDeveloperHints
-description: Notas de desarrollo y programación
+description: Notas sobre desarrollo, programación, marketing digital y tecnología
 url: https://webdeveloperhints.com
 author:
   twitter: lgzarturo
