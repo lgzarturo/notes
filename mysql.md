@@ -28,3 +28,4 @@ Medida en base a palabras en inglés.
 **Referencias:**
 
 - [Pregunta en StackOverflow](https://stackoverflow.com/questions/13932750/tinytext-text-mediumtext-and-longtext-maximum-storage-sizes/35785869#35785869)
+- [Instala MySQL en MacOS X](devops/instala-mysql-para-macos.md)
