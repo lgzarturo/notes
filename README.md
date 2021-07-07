@@ -38,7 +38,8 @@ Espero que el contenido sea de tu agrado.
 
 ## UX/UI
 
-- [¿Qué es el diseño responsivo?](uxui/sitios-web-responsivos.md)
+- [¿Qué es el diseño responsivo?](uxui/sitios-web-responsivos.md)
+- [Snippets sobre interfaces y frontend](uxui/gist-snippets-sobre-interfaces.md)
 
 ---
 

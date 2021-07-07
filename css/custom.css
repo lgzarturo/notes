@@ -6,6 +6,10 @@ li {
   margin-bottom: 0.5em;
 }
 
+hr {
+  margin: 1.6em 0;
+}
+
 blockquote {
   margin-top: 2em;
   margin-bottom: 2em;
@@ -13,6 +17,7 @@ blockquote {
 }
 
 #comments-section {
+  margin-top: 2.5em;
   padding: 2em;
   padding: 2em;
   background: rgba(0,0,0,.4);
