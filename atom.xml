@@ -58,5 +58,6 @@
             <description>
             Todo sobre como trabajar con Tag Manager, tips y pruebas de implementación
             </description>
-        </channel>
-    </rss>
+        </item>
+    </channel>
+</rss>
