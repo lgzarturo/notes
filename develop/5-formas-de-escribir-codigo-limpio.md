@@ -1,6 +1,7 @@
 ---
 title: "5 Formas de escribir código limpio"
 description: "Técnicas para crear código libre de errores para mejorar él mantenimiento"
+tags: programming
 ---
 
 ## Principios básicos para crear código libre de errores

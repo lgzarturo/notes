@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es el diseño responsivo?"
 description: "El diseño web adaptable, es una filosofía de diseño y desarrollo cuyo objetivo es adaptar la apariencia de las páginas web al dispositivo que se esté utilizando para visitarlas"
-category: web-develop
+tags: web-develop
 ---
 
 > El diseño no es solo cómo se ve y se siente. _El diseño es cómo funciona_ - **Steve Jobs**

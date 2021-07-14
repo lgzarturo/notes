@@ -1,6 +1,7 @@
 ---
 title: "Buenas prácticas de programación"
 description: "Refactorizar código se aplica como una técnica para reestructurar la estructura interna del código fuente"
+tags: programming
 ---
 
 ## Buenas prácticas de programación

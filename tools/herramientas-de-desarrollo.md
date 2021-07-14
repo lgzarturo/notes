@@ -1,7 +1,7 @@
 ---
 title: "Herramientas y sitios para desarrollo"
 description: "Algunas de las herramientas que uso y que voy descubriendo cada día, son Gratis y aportan mucho valor"
-category: tools
+tags: tools
 ---
 
 ## Notas de desarrollo

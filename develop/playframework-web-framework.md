@@ -1,7 +1,7 @@
 ---
 title: "Play Framework - Build Modern & Scalable Web Apps"
 description: "Un framework que facilita la creación de aplicaciones con Java y Scala"
-category: framework
+tags: framework
 ---
 
 > Play Framework es un marco de aplicación web de código abierto que sigue el patrón arquitectónico modelo-vista-controlador. Está escrito en Scala y se puede usar desde otros lenguajes de programación que se compilan en JVM Bytecode, p. Java - [Wikipedia](https://en.wikipedia.org/wiki/Play_Framework)

@@ -9,7 +9,7 @@ author:
 tag_manager: GTM-53H37XV
 show_downloads: false
 feed:
-  excerpt_only: true
+  excerpt_only: false
   tags: true
 
 plugins:

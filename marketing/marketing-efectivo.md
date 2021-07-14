@@ -1,7 +1,7 @@
 ---
 title: "6 pasos para un Marketing efectivo"
 description: "En este artículo quiero exponer los pasos que he adoptado al momento de pensar en la promoción de un producto o la difusión del branding de una marca"
-category: inbound-marketing
+tags: inbound-marketing
 ---
 
 En internet las empresas buscan resaltar sus productos o marcas, sin embargo, son pocas las que llevan una metodología adecuada.
@@ -30,5 +30,58 @@ Algunas de las tareas con las cuales puedes empezar a promocionar tu marca o pro
 - Usa un lenguaje acorde con tu público objetivo. Usa palabras que contacten con los usuarios y que se puedan sentir identificados con tu marca o servicios.
 - Analiza todas las estadísticas que puedas, define el seguimiento de tus clientes y optimiza cada acción según sus intereses.
 - No dejes de optimizar tus estrategias. El éxito de tu negocio solo depende de las acciones que emprendas y de lo comprometido que estas con tus clientes.
+
+## Usa la tecnología para promover tu marca
+
+Con el uso de la tecnología puedes mejorar tu marca y ofrecerle una mejor experiencia a tus clientes.
+
+Algunas de las técnicas que puedes usar para promover tu marca son:
+
+### Innovación tecnológica
+
+La velocidad del sitio es una ventaja competitiva, sin embargo, no es tan sencillo lograrlo, hay que tener en cuenta el uso de una plataforma estable y robusta que pueda escalar con el incremento del tráfico, si no se hace de la manera correcta, se traduce en costos altos para la empresa. La recomendación es contratar una empresa enfocada en tecnología que ofrezca servicios especializados, para disponer de la tecnología más novedosa sin tener que hacer grandes inversiones.
+
+### Refuerza tu Marca
+
+El Branding es la herramienta que une a las marcas con el público consumidor. Es la parte visual de las empresas, tener un sitio propio es sinónimo de atención a los detalles. El objetivo es enfocarnos en darle valor y rentabilidad a la marca comercial, contar con una plataforma que se preocupe por mejorar desde la velocidad del sitio web, las facilidades de pago y la innovación tecnológica.
+
+### Flexibilidad
+
+Adaptarnos a los cambios que se producen en la industria. Es crucial contar con un proveedor que ofrezca servicios que se adapten a tus necesidades de negocio, optimizando recursos tecnológicos para alcanzar y mejorar los objetivos recomendados en la industria.
+
+### Ahorro en costos
+
+La colaboración con proveedores especializados permite generar importantes ahorros en gastos asociados a la inversión en infraestructuras o tecnología, o los destinados a la contratación de personal que se hagan cargo de los proyectos.
+
+Ahorra tiempo y dinero confiando en manos de expertos el desarrollo de tu propia plataforma de venta en línea, quienes centrarán todos sus esfuerzos en desarrollar la mejor herramienta que se adapte a tus necesidades.
+
+### Mayores conocimientos
+
+Aprovechar el conocimiento de la industria basada en tecnología. Permite a las empresas tener la mejor tecnología sin invertir en infraestructura y personal. Eso también es calidad de servicio al cliente ya que realmente la empresa está integrando personal especializado, al contratar empresas para la realización de tareas específicas, se aprovechan los conocimientos de la industria y se puede ahorrar costos.
+
+### Rentabilidad
+
+La innovación continua es el principal enfoque en el que se sitúan las empresas de tecnología. Tener servicios más rápidos, mejor optimizados y aprovechar el crecimiento tecnológico, es una característica que se traduce en mayores ingresos. El poder ofrecer un servicio a los viajeros de todo el mundo, bajo una experiencia localizada y sin complicaciones es parte de la rentabilidad.
+
+### Posicionamiento orgánico
+
+Al tener un sitio web propio es necesario contar con buenas prácticas en la estructura del sitio, así como aplicar técnicas que ayuden a mejorar la optimización y velocidad del sitio web con la finalidad de mejorar el posicionamiento en los Buscadores (Google, Bing). Esto también beneficia a tu negocio, la idea es mostrar tus servicios de la manera más atractiva posible a los clientes.
+
+## Estrategía para inbound marketing
+
+- **Atraer** - personas desconocidas, por medio de social media, artículos, seo, sem.
+- **Convertir** - visitantes, por medio de llamadas a la acción, páginas de aterrizaje, formularios.
+- **Mantener cerca** - prospectos, por medio de email marketing, flujos de trabajo, lead scoring, crm
+- **Deleitar** - clientes, por medio de social media, promociones, interacciones
+- El objetivo es convertir a tus clientes en promotores.
+
+## Métricas importantes - KPI
+
+- **Revenue**: Ingresos totales de los productos o servicios.
+- **CAC**: Costo de adquisición de usuarios, por medio de publicidad y por medio de ventas.
+- **Expenditure**: Gasto total en campaña, publicidad y promoción de productos.
+- **% New customers**: Cantidad de clientes nuevos por mes.
+- **Marketing Ads**: Campañas de publicidad.
+- **Customer satisfaction**: Medir la satisfacción de los clientes.
 
 Recuerda, siempre debes buscar mejorar los productos, la promoción, crear nuevas estrategias y estar al pendiente de las necesidades de tu público.

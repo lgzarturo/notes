@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Dark Theme"
 description: "The Lone Coder Theme tema para visual studio code, ajuste el tema para dark mode, es el modo que me gusta para trabajar"
-category: themes
+tags: themes
 ---
 
 ![The Lone Coder](https://github.com/lgzarturo/the-lone-coder/raw/master/docs/screenshot-theme.jpg "Tema para visual studio code")

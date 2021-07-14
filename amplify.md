@@ -1,7 +1,7 @@
 ---
 title: "Empieza con Amplify, fácil y sin complicaciones"
 description: "Amplify propone un entorno de desarrollo en la nube, es interesante como se plantea como una solución de desarrollo automatizando el despliegue de software y administración de la infraestructura"
-category: web-develop
+tags: backend
 ---
 
 ## Crear una aplicación con React

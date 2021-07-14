@@ -1,7 +1,7 @@
 ---
 title: "7 libros de programación que debes leer"
 description: "En este artículo expongo 7 libros que considero importantes para cualquier desarrollador de software"
-category: learning
+tags: learning
 ---
 
 Desde mi punto de vista la programación de aplicaciones es una forma de arte que está cambiando la manera en como interactuar con la información que nos rodea. Poco a poco las computadoras han cambiado la manera en como nos comunicamos y el oficio de programador cada vez se vuelve más demandante.

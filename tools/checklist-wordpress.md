@@ -1,7 +1,7 @@
 ---
 title: "Buenas prácticas con Wordpress"
 description: "Este es un listado de ideas y sugerencias para mejorar el rendimiento de un sitio web con Wordpress"
-category: web-develop
+tags: web-develop
 ---
 
 ![Wordpress plugins](https://i.imgur.com/WK3wdDD.png "Lista de recomendaciones para sitios con Wordpress")

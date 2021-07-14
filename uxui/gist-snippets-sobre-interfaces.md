@@ -1,7 +1,7 @@
 ---
 title: "Snippets sobre diseño de interfaces"
 description: "En este artículo se listan una seria de códigos para mejorar las interfaces de usuario, desde el diseño hasta la interacción con el usuario"
-category: uxui
+tags: uxui
 ---
 
 ## Tipografías

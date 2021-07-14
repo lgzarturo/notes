@@ -1,7 +1,7 @@
 ---
 title: "Crea una estrategia efectiva para tu campaña de correos"
 description: "Conecta con tus clientes, creamos tu presencia online para que ganes visibilidad y reconocimiento de marca"
-category: email-marketing
+tags: email-marketing
 ---
 
 El objetivo es conectar con tus clientes y crear una presencia online para que ganes mayor visibilidad y reconocimiento de marca.
