@@ -2,7 +2,6 @@
 title: "Personaliza VSCode"
 description: "Una forma de aumentar la productividad es conocer tus herramientas de trabajo, hay extensiones que te ayudan a escribir más rápido y te ayudan a mejorar tu productividad."
 tags: themes
-date: 2021-07-14
 ---
 
 ## Personalización

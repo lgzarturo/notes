@@ -1,0 +1,62 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WebDeveloperHints</title>
+        <link>https://webdeveloperhints.com</link>
+        <description>Notas sobre desarrollo, programación, marketing digital y tecnología</description>
+        <language>es_MX</language>
+        <managingEditor>arthurolg@gmail.com (Arturo López)</managingEditor>
+        <webMaster>arthurolg@gmail.com (Arturo López)</webMaster>
+        <lastBuildDate>Wen, 14 Jul 2021 16:10:00 +0000</lastBuildDate>
+        <atom:link href="https://webdeveloperhints.com/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Personaliza VSCode</title>
+            <link>https://webdeveloperhints.com/tools/vscode-customization.html</link>
+            <description>
+            Una forma de aumentar la productividad es conocer tus herramientas de trabajo, hay extensiones que te ayudan a escribir más rápido y te ayudan a mejorar tu productividad.
+            </description>
+        </item>
+        <item>
+            <title>5 Formas de escribir código limpio</title>
+            <link>https://webdeveloperhints.com/develop/5-formas-de-escribir-codigo-limpio.html</link>
+            <description>
+            Técnicas para crear código libre de errores para mejorar él mantenimiento</description>
+        </item>
+        <item>
+            <title>Crea tu perfil profesional</title>
+            <link>https://webdeveloperhints.com/guides/crea-tu-perfil-profesional.html</link>
+            <description>
+            Demuestra tu profesionalismo, versatilidad y el emprendedor que llevas dentro
+            </description>
+        </item>
+        <item>
+            <title></title>
+            <link>https://webdeveloperhints.com/</link>
+            <description></description>
+        </item>
+        <item>
+            <title>20 Frases para el exito</title>
+            <link>https://webdeveloperhints.com/lifehacks/20-frases-para-el-exito.html</link>
+            <description>Aquí te dejo algunas frases que me han gustado y que creo son importantes para mantener el ánimo.</description>
+        </item>
+        <item>
+            <title>El uso de las APIs</title>
+            <link>https://webdeveloperhints.com/api.html</link>
+            <description>
+            Hay muchos servicios de gran valor gratis o a costo bajo que se pueden implementar, conocerlas nos hace más productivos y listos para enfrentar los retos del día
+            </description>
+        </item>
+        <item>
+            <title>Tools y tips para FrontEnd</title>
+            <link>https://webdeveloperhints.com/frontend.html</link>
+            <description>
+            La programación front end es muy amplia, el ecosistema de JavaScript crece muy rápido, en este artículo expondré lo nuevo que voy implementando y aprendiendo sobre el desarrollo web
+            </description>
+        </item>
+        <item>
+            <title>Tips sobre Tag Manager</title>
+            <link>https://webdeveloperhints.com/tagmanager.html</link>
+            <description>
+            Todo sobre como trabajar con Tag Manager, tips y pruebas de implementación
+            </description>
+        </channel>
+    </rss>
