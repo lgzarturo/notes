@@ -14,12 +14,15 @@
             <description>
             Una forma de aumentar la productividad es conocer tus herramientas de trabajo, hay extensiones que te ayudan a escribir más rápido y te ayudan a mejorar tu productividad.
             </description>
+            <pubDate>Wen, 14 Jul 2021 16:10:00 +0000</pubDate>
         </item>
         <item>
             <title>5 Formas de escribir código limpio</title>
             <link>https://webdeveloperhints.com/develop/5-formas-de-escribir-codigo-limpio.html</link>
             <description>
-            Técnicas para crear código libre de errores para mejorar él mantenimiento</description>
+            Técnicas para crear código libre de errores para mejorar él mantenimiento
+            </description>
+            <pubDate>Mon, 12 Jul 2021 01:05:40 +0000</pubDate>
         </item>
         <item>
             <title>Crea tu perfil profesional</title>
@@ -27,6 +30,7 @@
             <description>
             Demuestra tu profesionalismo, versatilidad y el emprendedor que llevas dentro
             </description>
+            <pubDate>Fri, 09 Jul 2021 11:05:40 +0000</pubDate>
         </item>
         <item>
             <title>6 pasos para un Marketing efectivo</title>
@@ -34,11 +38,13 @@
             <description>
             En este artículo quiero exponer los pasos que he adoptado al momento de pensar en la promoción de un producto o la difusión del branding de una marca
             </description>
+            <pubDate>Mon, 05 Jul 2021 01:05:40 +0000</pubDate>
         </item>
         <item>
             <title>20 Frases para el exito</title>
             <link>https://webdeveloperhints.com/lifehacks/20-frases-para-el-exito.html</link>
             <description>Aquí te dejo algunas frases que me han gustado y que creo son importantes para mantener el ánimo.</description>
+            <pubDate>Fri, 02 Jul 2021 15:25:40 +0000</pubDate>
         </item>
         <item>
             <title>El uso de las APIs</title>
@@ -46,6 +52,7 @@
             <description>
             Hay muchos servicios de gran valor gratis o a costo bajo que se pueden implementar, conocerlas nos hace más productivos y listos para enfrentar los retos del día
             </description>
+            <pubDate>Wen, 30 Jun 2021 01:05:40 +0000</pubDate>
         </item>
         <item>
             <title>Tools y tips para FrontEnd</title>
@@ -53,6 +60,7 @@
             <description>
             La programación front end es muy amplia, el ecosistema de JavaScript crece muy rápido, en este artículo expondré lo nuevo que voy implementando y aprendiendo sobre el desarrollo web
             </description>
+            <pubDate>Mon, 28 Jun 2021 15:05:00 +0000</pubDate>
         </item>
         <item>
             <title>Tips sobre Tag Manager</title>
@@ -60,6 +68,7 @@
             <description>
             Todo sobre como trabajar con Tag Manager, tips y pruebas de implementación
             </description>
+            <pubDate>Fri, 25 Jun 2021 16:30:00 +0000</pubDate>
         </item>
     </channel>
 </rss>
