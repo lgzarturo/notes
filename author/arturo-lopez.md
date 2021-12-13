@@ -7,7 +7,7 @@ image: https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/githu
 
 ![Web Developer Arturo López](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
-Hola, mi nombre es **[Arturo López](https://arthurolg.com "Perfil profesional")**, soy desarrollador de software, tengo la capacidad de trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Me gusta aprender y trabajar con nuevas tecnologías.
+Hola, mi nombre es **[Arturo López](https://arthurolg.com "Perfil profesional")**, soy desarrollador de software, me gusta trabajar con varios lenguajes entre ellos Java, Php, Python, Groovy, JavaScript. Siempre estoy enfocado en aprender y trabajar con nuevas tecnologías.
 
 Mi trabajo es analizar y proveer soluciones efectivas sin importar el lenguaje, en el transcurso de mi carrera como programador he encontrado que diario aprendes algo nuevo y que de igual forma puedes crear algo diferente, es por eso por lo que me apasiona la programación de sistemas.
 
@@ -15,7 +15,7 @@ Veo un lenguaje solo como una herramienta para alcanzar una meta. Ningún lengua
 
 > Actualmente trabajo con Grails(Groovy), Java(Spring Boot, Android, Play Framework), Php(Laravel), JavaScript(Node js, jQuery) y Python(Django).
 
-La ventaja de utilizar un framework radica en reutilizar el código y las herramientas que han sido probadas rigurosamente por programadores que marcan la tendencia del desarrollo o por la simple idea: "no es necesario reinventar la rueda"
+La ventaja de utilizar un framework radica en reutilizar el código y las herramientas que han sido probadas rigurosamente por programadores que marcan la tendencia del desarrollo o por la simple idea: *"no es necesario reinventar la rueda"*
 
 ---
 

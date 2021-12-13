@@ -14,7 +14,7 @@ Muchos consideran el diseño responsivo como una tendencia que nació debido al 
 
 A continuación menciono algunos beneficios de aplicar diseño responsivo a tu sitio.
 
-- **Una sola página para todos los tamaños**. Es evidente que este es el mayor beneficio, ya que la página debe ser capaz de ajustarse a cualquier tamaño de pantalla, mejora la indexación del sitio, ya que solo se accede a una URL para todo el contenido
+- **Una sola página para todos los tamaños**. Es evidente que este es el mayor beneficio, ya que la página debe ser capaz de ajustarse a cualquier tamaño de pantalla, mejora la experiencia de uso, ya que solo se accede a una URL para todo el contenido.
 - **Menor costo de mantenimiento**. Al principio puede ser complicado, ya que hay que tener en cuenta el diseño y adaptarlo a los diferentes tamaños, sin embargo con el tiempo te acostumbras a crear una mejor estructura para el código y a reutilizar fragmentos.
 - **Mejor visualización**. Esto es debido a que dicho sitio se adapta a la pantalla de los dispositivos, haciendo el contenido más fácil de leer. Con esto aseguras un menor porcentaje de rebote, ya que los visitantes que accedan al sitio podrán ver claramente el contenido.
 - **Campañas de marketing**. El problema de tener un sitio para dispositivos móviles y uno para navegadores de escritorio es que con el tiempo uno de los dos quedara rezagado ante el esfuerzo de optimizar el contenido, campañas de publicidad o posicionamiento. Es mejor contar con una sola dirección URL, así apuntamos todos los esfuerzos y la inversión en un solo lugar asegurando un sitio bien optimizado.

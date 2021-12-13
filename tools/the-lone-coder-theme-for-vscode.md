@@ -8,6 +8,8 @@ tags: themes
 
 The Lone Coder, es un tema obscuro para Visual Studio Code. La idea del tema es tener colores más contrastados en un fondo obscuro y explorar la manera en como se estructura el código de los temas en los diversos entornos de desarrollo.
 
+> Para personalizar Visual Studio Code puedes seguir la siguiente [documentación](vscode-customization.md)
+
 Puedes ver el código fuente y crear tu propio tema, en el siguiente enlace:
 
 - [The Lone Coder VSCode theme](https://github.com/lgzarturo/the-lone-coder-vscode)

@@ -61,7 +61,7 @@ En español "**Mantenle Sencillo, ¡Estúpido!**", es un principio que recomiend
 
 ### DRY (Don’t Repeat Yourself)
 
-En español "**No te repitas**", este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código sea reutilizable de modo que no debería ser duplicada la funcionalidad.
+En español “**No te repitas**”, este principio nos hace mención a que el código escrito debe ser único y promueve la refactorización para la reducción de código duplicado. La idea de aplicar el principio es dividir los proyectos en pequeños módulos y que cada pedazo de código se pueda reutilizar de modo que no debería ser duplicada la funcionalidad.
 
 Factores que se intentan minimizar con este principio:
 

@@ -52,3 +52,5 @@ Lo invitamos también a leer las políticas de Privacidad de dos de los sistemas
 
 - [Política de Privacidad de Google Analytics](http://www.google.com/intl/es_ALL/privacypolicy.html)
 - [Política de Privacidad de Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/)
+
+Para obtener información sobre **webdeveloperhits**, favor de enviar un correo a lgzarturo@gmail.com

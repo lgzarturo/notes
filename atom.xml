@@ -4,10 +4,18 @@
         <link>https://webdeveloperhints.com</link>
         <description>Notas sobre desarrollo, programación, marketing digital y tecnología</description>
         <language>es_MX</language>
-        <managingEditor>arthurolg@gmail.com (Arturo López)</managingEditor>
-        <webMaster>arthurolg@gmail.com (Arturo López)</webMaster>
-        <lastBuildDate>Wen, 14 Jul 2021 16:10:00 +0000</lastBuildDate>
+        <managingEditor>lgzarturo@gmail.com (Arturo López)</managingEditor>
+        <webMaster>lgzarturo@gmail.com (Arturo López)</webMaster>
+        <lastBuildDate>Sun, 12 Dic 2021 18:20:00 +0000</lastBuildDate>
         <atom:link href="https://webdeveloperhints.com/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Formulas para crear KPIs y medir resultados</title>
+            <link>https://webdeveloperhints.com/marketing/marketing/marketing-e-commerce-kpi.html</link>
+            <description>
+            En este artículo explicare algunas formulas magicas para tu e-commerce.
+            </description>
+            <pubDate>Sun, 12 Dic 2021 18:20:00 +0000</pubDate>
+        </item>
         <item>
             <title>Personaliza VSCode</title>
             <link>https://webdeveloperhints.com/tools/vscode-customization.html</link>

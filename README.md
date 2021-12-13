@@ -2,6 +2,8 @@
 
 Antes que nada, gracias por visitar este sitio.
 
+*"Tips de desarrollo web y programación"* es una colección de artículos que te ayudarán a conocer mejor el mundo de la programación y la web.
+
 En este blog vas a encontrar artículos sobre mis ideas, proyectos, tecnología, programación y todo lo relacionado con desarrollo de software.
 
 Espero que el contenido sea de tu agrado.
@@ -15,6 +17,7 @@ Espero que el contenido sea de tu agrado.
 - [Tips sobre Tag Manager](tagmanager.md)
 - [Investigaciones sobre MySQL](mysql.md)
 - [Java, Spring Boot](java.md)
+- [Crea aplicaciones rapidamente en la nube con Amplify](amplify.md)
 
 ---
 
@@ -23,12 +26,14 @@ Espero que el contenido sea de tu agrado.
 - [Buenas practicas de programación](develop/buenas-practicas-de-desarrollo.md)
 - [4 Etapas para el desarrollo de software](develop/las-4-etapas-del-desarrollo.md)
 - [12 lenguajes de programación](develop/los-12-mejores-lenguajes-de-programacion.md)
+- [5 formas de escribir código limpio](develop/5-formas-de-escribir-codigo-limpio.md)
 - [7 libros sobre programación que son esenciales](lifehacks/7-libros-de-programacion-que-debes-leer.md)
 
 ---
 
 ## Marketing Digital
 
+- [Formulas para crear KPIs y medir resultados](marketing/marketing-e-commerce-kpi.md)
 - [Ideas para mejorar el posicionamiento web](marketing/seo-aplicado-en-sitios-web.md)
 - [6 pasos para hacer un marketing efectivo](marketing/marketing-efectivo.md)
 - [Crea una estrategia efectiva para tu campaña de correos](marketing/estrategia-email-marketing.md)
@@ -48,6 +53,7 @@ Espero que el contenido sea de tu agrado.
 - [Aplica buenas practicas a WordPress](tools/checklist-wordpress.md)
 - [Usa GitHub de la mejor forma posible](tools/github-cheat-sheet.md)
 - [Herramientas para ser mas productivo en desarrollo](tools/herramientas-de-desarrollo.md)
+- [Mejora el rendimiento de tu sitio web](tools/herramientas-mejorar-rendimiento-sitios-web.md)
 - [Tema de Visual Studio Code - The Lone Coder](tools/the-lone-coder-theme-for-vscode.md)
 
 ---

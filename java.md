@@ -193,9 +193,9 @@ logging:
 
 - El puerto 80 debe estar habilitado para la verificación
 - Python 2.7
-- [Instrucciones de letsencrypt](https://letsencrypt.org)
+- [Instrucciones de Lets Encrypt](https://letsencrypt.org)
 
-#### Instalar certbot
+#### Instalar Certbot
 
 ```bash
 git clone https://github.com/certbot/certbot
@@ -208,7 +208,7 @@ git clone https://github.com/certbot/certbot
 openssl pkcs12 -export -in fullchain.pem -inkey privkey.pem -out keystore.p12 -name tomcat -CAfile chain.pem -caname root
 ```
 
-[Verificar la seguridad de un hsts](https://hstspreload.org)
+[Verificar la seguridad de un Hsts](https://hstspreload.org)
 
 ### Configurar CSRF en SPA
 

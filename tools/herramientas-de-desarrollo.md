@@ -20,7 +20,7 @@ Herramienta para generar un administrador backend con React.
 
 Explicación simple en 10 tweets de las ventajas de usar Next.js.
 
-- [Explicando nextjs con tweets](https://colbyfayock.hashnode.dev/learn-nextjs-in-10-tweets)
+- [Explicando NextJS con tweets](https://colbyfayock.hashnode.dev/learn-nextjs-in-10-tweets)
 
 ## Material icons
 

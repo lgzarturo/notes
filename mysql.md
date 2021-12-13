@@ -20,7 +20,7 @@ Medida en base a palabras en inglés.
 
 ![Máximo y mínimo de palabras](images/fields-worst-and-best-scenario.png)
 
-> Notas
+> Notas:
 >
 > - El número de caracteres depende del tipo de codificación.
 > - Las estimaciones de multi-byte se refieren a idiomas como Geek, Arabic, Hebrew, Hindi, Thai, etc

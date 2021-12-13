@@ -38,7 +38,7 @@ Pone un método de seguridad en los formularios para determinar que quien envió
 
 Este plugin sirve para la creación de formularios dentro de contacto.
 
-### [Limitador de intentos de login](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
+### [Limitar los intentos de login](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
 
 Sirve para mejorar la seguridad mediante un contador de intentos fallidos de acceso al panel de administración.
 

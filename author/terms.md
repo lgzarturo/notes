@@ -87,4 +87,4 @@ Si usted no cumple estas condiciones, y nosotros no tomamos acción inmediata, e
 
 Si cualquier disposición de estas condiciones resultaré inejecutable, ello no afectará la validez del resto de las condiciones.
 
-Para obtener información sobre las condiciones de uso y la política de privacidad comunicarse con **webdeveloperhits**, favor de enviar un correo a me@webdeveloperhits.com
+Para obtener información sobre las condiciones de uso y la política de privacidad comunicarse con **webdeveloperhits**, favor de enviar un correo a lgzarturo@gmail.com

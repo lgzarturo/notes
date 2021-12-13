@@ -65,9 +65,9 @@ La innovación continua es el principal enfoque en el que se sitúan las empresa
 
 ### Posicionamiento orgánico
 
-Al tener un sitio web propio es necesario contar con buenas prácticas en la estructura del sitio, así como aplicar técnicas que ayuden a mejorar la optimización y velocidad del sitio web con la finalidad de mejorar el posicionamiento en los Buscadores (Google, Bing). Esto también beneficia a tu negocio, la idea es mostrar tus servicios de la manera más atractiva posible a los clientes.
+Al tener un sitio web propio es necesario contar con buenas prácticas en la estructura del sitio, así como aplicar técnicas que ayuden a mejorar y optimizar la velocidad del sitio web con la finalidad de mejorar el posicionamiento en los Buscadores (Google, Bing). Esto también beneficia a tu negocio, la idea es mostrar tus servicios de la manera más atractiva posible a los clientes.
 
-## Estrategía para inbound marketing
+## Estrategia para inbound marketing
 
 - **Atraer** - personas desconocidas, por medio de social media, artículos, seo, sem.
 - **Convertir** - visitantes, por medio de llamadas a la acción, páginas de aterrizaje, formularios.

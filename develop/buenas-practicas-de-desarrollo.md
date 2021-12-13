@@ -26,12 +26,14 @@ La mayoría de los programadores sabemos que la mayor parte del tiempo tenemos q
 
 "_La legibilidad cuenta_" - Adoptar una convención para la escritura de código nos ayuda a que el mantenimiento o refactorización sean procesos menos dolorosos, sin dolores de cabeza. Haciendo que nuestro código sea más legible para otros programadores como para nosotros mismos.
 
+> "Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso" – _Bill Gates_
+
 ## Ideas para mejorar como programador
 
 - Nombre de variables, clases o métodos más descriptivos.
 - Siempre pon atención a la indentación del código.
 - Crea o adopta un estándar para escribir código.
-- Decide entre tabulación o espacios.
+- Decide entre **tabulación** o **espacios** (*2 o 4 espacios*).
 - Longitud de línea no mayores a 120 caracteres.
 - Agrupar código en funciones o clases.
 - Adopta buenas prácticas para documentar tu código.
@@ -40,8 +42,9 @@ La mayoría de los programadores sabemos que la mayor parte del tiempo tenemos q
 
 ### Frases de inspiración
 
-- Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso. – _Bill Gates_
 - La simplicidad es la sofisticación extrema. - _Leonardo Da Vinci_
 - La perfección se logra cuando no queda nada por quitar, todo lo demás viene sobrando.
-- Codifica siempre como si el tipo que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives. - Rick Osborne
+- Codifica siempre como si el tipo que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives. _Rick Osborne_
 - Todo debe ser lo más simple posible, no solo simple. - _Albert Einstein_
+- La programación es un arte, no una ciencia. - _Alan Turing_
+- Los mejores programadores no son sólo marginalmente mejores que los buenos. Se trata de un orden de magnitud mayor, medida por cualquier estándar: creatividad conceptual, velocidad, ingenio o habilidad para solucionar problemas" _Randall E. Stross_

@@ -1,6 +1,6 @@
 ---
-title: "Mejora el rendimiento de los sitios web con las herramientas de optimización"
-description: "Es necesario monitorear el rendimiento de los sitios web para poder optimizarlos.En este artículo se explican las herramientas que se pueden utilizar para mejorar el rendimiento de un sitio web."
+title: "Mejora el rendimiento de los sitios web con las herramientas correctas"
+description: "Es necesario realizar el monitoreo del rendimiento de los sitios web para poder optimizarlos.En este artículo se explican las herramientas que se pueden utilizar para mejorar el rendimiento de un sitio web."
 tags: themes
 date: 2021-06-10
 ---
