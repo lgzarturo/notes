@@ -37,7 +37,7 @@ Espero que el contenido sea de tu agrado.
 - [Ideas para mejorar el posicionamiento web](marketing/seo-aplicado-en-sitios-web.md)
 - [6 pasos para hacer un marketing efectivo](marketing/marketing-efectivo.md)
 - [Crea una estrategia efectiva para tu campaña de correos](marketing/estrategia-email-marketing.md)
-- [Optimiza tu SEO para aparecer en las búsquedas de Google](marketing/aparece-en-las-busquedas-de-goolge.md)
+- [Optimiza tu SEO para aparecer en las búsquedas de Google](marketing/aparece-en-las-busquedas-de-google.md)
 
 ---
 
