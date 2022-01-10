@@ -17,7 +17,7 @@ Espero que el contenido sea de tu agrado.
 - [Tips sobre Tag Manager](tagmanager.md)
 - [Investigaciones sobre MySQL](mysql.md)
 - [Java, Spring Boot](java.md)
-- [Crea aplicaciones rapidamente en la nube con Amplify](amplify.md)
+- [Crea aplicaciones rápidamente en la nube con Amplify](amplify.md)
 
 ---
 

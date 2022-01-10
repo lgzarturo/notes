@@ -1,14 +1,14 @@
 ---
-title: "Buenas prácticas con Wordpress"
-description: "Este es un listado de ideas y sugerencias para mejorar el rendimiento de un sitio web con Wordpress"
+title: "Buenas prácticas con WordPress"
+description: "Este es un listado de ideas y sugerencias para mejorar el rendimiento de un sitio web con WordPress"
 tags: web-develop
 ---
 
-![Wordpress plugins](https://i.imgur.com/WK3wdDD.png "Lista de recomendaciones para sitios con Wordpress")
+![WordPress plugins](https://i.imgur.com/WK3wdDD.png "Lista de recomendaciones para sitios con WordPress")
 
 Listado de actividades y plugins recomendados para tener un sitio web en WordPress funcionando de manera optima.
 
-## Recomendaciones de Wordpress
+## Recomendaciones de WordPress
 
 - [ ] Crear una cuenta de administrador y el usuario admin ponerlo como editor.
 - [ ] Crear una cuenta de [CloudFlare](https://wordpress.org/plugins/cloudflare/) para mejorar el rendimiento de la respuesta del sitio (DNS) y tener un Servicio de Caché automático.
@@ -26,9 +26,9 @@ Listado de actividades y plugins recomendados para tener un sitio web en WordPre
 - [ ] Activar la caché del navegador.
 - [ ] Optimizar y reparar la base de datos.
 - [ ] Crear respaldos de la base de datos y del sitio cada día.
-- [ ] Actualiza los plugins de Wordpress al menos 1 vez cada 3 meses, recuerda realizar un respaldo antes de realizar la actualización de los plugins.
+- [ ] Actualiza los plugins de WordPress al menos 1 vez cada 3 meses, recuerda realizar un respaldo antes de realizar la actualización de los plugins.
 
-## Plugins de Wordpress en los Sitios Web
+## Plugins de WordPress en los Sitios Web
 
 ### [Captcha](https://wordpress.org/plugins/advanced-nocaptcha-recaptcha/)
 

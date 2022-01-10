@@ -1,8 +1,10 @@
 ---
 title: "Personaliza VSCode"
-description: "Una forma de aumentar la productividad es conocer tus herramientas de trabajo, hay extensiones que te ayudan a escribir más rápido y te ayudan a mejorar tu productividad."
+description: "Una forma de aumentar la productividad es conocer tus herramientas de trabajo."
 tags: themes
 ---
+
+Hay extensiones que te ayudan a escribir más rápido y te ayudan a mejorar tu productividad.
 
 ## Personalización
 
@@ -78,7 +80,7 @@ User settings
     "extensions.autoUpdate": false,
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
-    "files.exlude": {
+    "files.exclude": {
      "**/.git": true,
      "**/.DS_Store": true,
      "**/*.js": {
@@ -117,7 +119,7 @@ Es necesario instalar la extensión:
 "files.autoSaveDelay": 1000,
 ```
 
-**Insertar las medidas de una imagen en la etiqueta <img>**
+> Insertar las medidas de una imagen en la etiqueta 'img'
 
 (Command+P) Selecciona la opción: Emmet: update image size
 

@@ -54,7 +54,7 @@ Este lenguaje por lo regular se usa desde el lado del cliente y no necesita comp
 
 El lenguaje de programación de Internet por excelencia. Es un lenguaje destinado al entorno web y se ejecuta del lado del servidor, es interpretado, dinámico y está diseñado principalmente para dar soporte a sitios dinámicos.
 
-> [76 millones de sitios web están desarrolladas en Wordpress](https://www.40defiebre.com/estadisticas-wordpress/) que a su vez esta plataforma está construida con el lenguaje PHP.
+> [76 millones de sitios web están desarrolladas en WordPress](https://www.40defiebre.com/estadisticas-wordpress/) que a su vez esta plataforma está construida con el lenguaje PHP.
 
 ### Go
 

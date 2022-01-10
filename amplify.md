@@ -1,6 +1,6 @@
 ---
 title: "Empieza con Amplify, fácil y sin complicaciones"
-description: "Amplify propone un entorno de desarrollo en la nube, es interesante como se plantea como una solución de desarrollo automatizando el despliegue de software y administración de la infraestructura"
+description: "Amplify propone un entorno de desarrollo en la nube, como una solución de desarrollo automatizando el despliegue de software."
 tags: backend
 ---
 
@@ -116,7 +116,7 @@ const useIdPresent = true
 
 /* HTTP Get method for list objects
 
-- dynamodb.query(querParams ...
+- dynamodb.query(queryParams ...
 + dynamodb.scan(queryParams ...
 ```
 

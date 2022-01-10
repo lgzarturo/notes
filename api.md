@@ -1,6 +1,6 @@
 ---
 title: "¿Que APIs son recomendables?"
-description: "Hay muchos servicios de gran valor gratis o a costo bajo que se pueden implementar, conocerlas nos hace más productivos y listos para enfrentar los retos del día"
+description: "Hay muchos servicios de gran valor gratis o a costo bajo que se pueden implementar."
 tags: services
 ---
 
