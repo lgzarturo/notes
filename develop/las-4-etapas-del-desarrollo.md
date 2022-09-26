@@ -5,9 +5,9 @@ tags: projects
 image: /images/etapas-del-desarrollo-de-software-cover.jpg
 ---
 
-![Tips de desarrollo](/images/etapas-del-desarrollo-de-software-cover.jpg "Etapas del desarrollo de proyectos")
+![Tips de desarrollo][image-1]
 
-En el diseño web se involucran al menos dos personajes claves para la construcción de un sitio web. Por un lado tenemos al Programador Web quien asumirá el rol de la parte técnica, es el que aplicara sus conocimientos para el desarrollo del proyecto y por otro lado el Cliente el cual conoce el negocio y los objetivos que se buscan alcanzar.
+En el diseño web se involucran al menos dos personajes claves para la construcción de un sitio web. Por un lado tenemos al Programador Web quién asumirá el rol de la parte técnica, es el que aplicara sus conocimientos para el desarrollo del proyecto y por otro lado el Cliente el cual conoce el negocio y los objetivos que se buscan alcanzar.
 
 ## ¿Cuál es el tiempo de desarrollo idóneo?
 
@@ -37,7 +37,7 @@ La semana 1 inicia en el momento en que se aprueba el proyecto y por lo general 
 
 - **Mapa del sitio**: El cliente revisa el esquema del sitio y en conjunto con el diseñador definen el "Mapa del sitio" que se deberá respetar hasta el final.
 
-- **Wireframes**: El diseñador deberá entregar un diseño de concepto de como será la estructura del sitio web.
+- **Wireframes**: El diseñador deberá entregar un diseño de concepto de cómo será la estructura del sitio web.
 
 ### Etapa 2 (Semanas 3 y 4). Contenido y Diseño
 
@@ -54,3 +54,5 @@ Es en este punto donde se deben realizar las pruebas de navegación, fiabilidad 
 ## Etapa 4 (Semana 7 y 8). Lanzamiento
 
 La semana 7 se debe dedicar única y exclusivamente al refinamiento del sitio, adaptar mejor los requerimientos del cliente mediante una Revisión Final. Una vez terminada la revisión final, solo queda lanzar el sitio en el entorno productivo y configurar los sistemas que nos apoyaran en la obtención de métricas y análisis de tráfico.
+
+[image-1]:	/images/etapas-del-desarrollo-de-software-cover.jpg "Etapas del desarrollo de proyectos"

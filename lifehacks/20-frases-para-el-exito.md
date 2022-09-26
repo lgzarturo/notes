@@ -20,7 +20,7 @@ Aquí te dejo algunas frases que me han gustado y que creo son importantes para 
 10. Aprende como si fueras a vivir toda la vida, y vive como si fueras a morir mañana.
 11. Aunque me quede solo, no cambiaría mis pensamientos libres por un trono.
 12. Para ser realmente grande, hay que estar con la gente, no por encima de ella.
-13. Está bien celebrar el éxito pero es más importante prestar atención a las lecciones del fracaso.
+13. Está bien celebrar el éxito pero es mas importante prestar atención a las lecciones del fracaso.
 14. No he fracasado, he encontrado 10,000 maneras en las que esto no funciona.
 15. A los pobres les gusta comprar barato. A los ricos, sin embargo, ahorrar cuando compran.
 16. No tengas miedo de renunciar a lo bueno para perseguir lo grandioso.

@@ -12,13 +12,13 @@ El Email Marketing es una técnica de promoción que se usa como una herramienta
 
 El objetivo que nos da una herramienta muy poderosa; es que en poco tiempo puedes construir una lista de correos con las personas que están interesadas en tus productos o servicios y trabajar con esos posibles clientes es una parte fundamental del mercadeo por internet, ya que te brinda un canal de comunicación directo con tus futuros clientes.
 
-Hoy en día hay muchas herramientas que te ayudan a que esta labor sea más fácil y económico. Otro objetivo es desarrollar una estrategia de marketing y hacer ajustes hasta que obtengas resultados positivos. A mí en lo personal me gusta trabajar con [MailChimp](https://mailchimp.com/), su principal función es ayudarnos a que nuestras campañas tengan éxito y sean entregadas correctamente.
+Hoy en día hay muchas herramientas que te ayudan a que esta labor sea más fácil y económico. Otro objetivo es desarrollar una estrategia de marketing y hacer ajustes hasta que obtengas resultados positivos. A mí en lo personal me gusta trabajar con [MailChimp][1], su principal función es ayudarnos a que nuestras campañas tengan éxito y sean entregadas correctamente.
 
 **MailChimp** ofrece un servicio de prueba muy práctico para iniciar y cuando el negocio vaya prosperando de manera natural puedes subiendo el costo de lo que vas utilizando.
 
 Uno de los beneficios del email marketing es que podemos empezar a trabajar con una cuenta gratuita. En este caso te quiero hablar de **MailChimp**, que es un servicio el cual de manera gratuita _te permite hasta 2,000 suscriptores enviando hasta 12,000 correos por mes totalmente sin costo_. Cuando tienes un blog o un sitio web, no puedes dejar que tus visitas entren y se vayan, es necesario establecer una estrategia para estar en continua comunicación con tus visitantes, convertirlos en afiliados y finalmente se vuelvan clientes de tus productos.
 
-Fidelizar es parte importante del proceso del inbound marketing y en muy importante crear una buena estrategia de email marketing para automatizar el proceso de envío de correos. Con [MailChimp podrás gestionar tu estrategia de marketing](https://mailchimp.com/), para realizar las siguientes actividades:
+Fidelizar es parte importante del proceso del inbound marketing y en muy importante crear una buena estrategia de email marketing para automatizar el proceso de envío de correos. Con [MailChimp podrás gestionar tu estrategia de marketing][2], para realizar las siguientes actividades:
 
 - Enviar tus boletines de noticias periódicamente y automatizados.
 - Programación de envíos.
@@ -120,3 +120,6 @@ La idea de crear una estrategia de email marketing es para mantener informados a
 Una buena estrategia nos da una guía del tipo de campañas que debemos crear y también analizar los gustos de los usuarios para ir mejorando dependiendo de los resultados obtenidos.
 
 Cuéntanos como te podemos ayudar en tu estrategia digital
+
+[1]:	https://mailchimp.com/
+[2]:	https://mailchimp.com/

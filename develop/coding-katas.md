@@ -46,7 +46,7 @@ calculateSalary(1000) // => 1040
 
 ## Ejercicio 5
 
-Crear una función que solicite una cantidad en dolares y la convierta a pesos, el resultado debe ser en un objeto json , redondear y desglosar en el número de billetes (100, 50, 20) y monedas (10, 5, 1) a entregar.
+Crear una función que solicite una cantidad en dólares y la convierta a pesos, el resultado debe ser en un objeto json , redondear y desglosar en el número de billetes (100, 50, 20) y monedas (10, 5, 1) a entregar.
 
 ```javascript
 convertToCurrency(651.5)

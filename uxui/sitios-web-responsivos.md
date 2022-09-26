@@ -4,7 +4,7 @@ description: "El diseño web adaptable, es una filosofía de diseño, el objetiv
 tags: web-develop
 ---
 
-> El diseño no es solo cómo se ve y se siente. _El diseño es cómo funciona_ - **Steve Jobs**
+> El diseño no es solo como se ve y se siente. _El diseño es cómo funciona_ - **Steve Jobs**
 
 Antes que nada déjame explicarte que el Diseño Responsivo es una técnica de diseño que hacen uso de estructuras y contenido fluido, la finalidad es conseguir adaptar el sitio web al entorno de navegación del usuario.
 
@@ -33,8 +33,14 @@ A continuación menciono algunos beneficios de aplicar diseño responsivo a tu s
 
 #### Enlaces de ayuda
 
-- [Definición de diseño responsivo.](http://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable "Diseño responsivo según Wikipedia")
-- [Información técnica sobre diseño responsivo.](https://developer.mozilla.org/es/docs/Web_Development/Mobile/Dise%C3%B1o_responsivo "Mozilla Web Development Docs")
-- [Buen ejemplo sobre el uso de diseño responsivo y jQuery.](http://www.ibm.com/developerworks/ssa/library/mo-jquery-responsive-design/ "IBM DeveloperWorks")
-- [Google prefiere los sitios con diseño responsivo.](http://www.puromarketing.com/10/16926/prefiere-sitios-diseno-responsivo.html "Puro Marketing")
-- [Articulo de Google sobre diseño responsivo.](https://developers.google.com/webmasters/smartphone-sites/ "Google Developers")
+- [Definición de diseño responsivo.][1]
+- [Información técnica sobre diseño responsivo.][2]
+- [Buen ejemplo sobre el uso de diseño responsivo y jQuery.][3]
+- [Google prefiere los sitios con diseño responsivo.][4]
+- [Articulo de Google sobre diseño responsivo.][5]
+
+[1]:	http://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable "Diseño responsivo según Wikipedia"
+[2]:	https://developer.mozilla.org/es/docs/Web_Development/Mobile/Dise%C3%B1o_responsivo "Mozilla Web Development Docs"
+[3]:	http://www.ibm.com/developerworks/ssa/library/mo-jquery-responsive-design/ "IBM DeveloperWorks"
+[4]:	http://www.puromarketing.com/10/16926/prefiere-sitios-diseno-responsivo.html "Puro Marketing"
+[5]:	https://developers.google.com/webmasters/smartphone-sites/ "Google Developers"

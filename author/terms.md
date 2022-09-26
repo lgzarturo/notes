@@ -5,7 +5,7 @@ description: "Para obtener información sobre las condiciones de uso y la polít
 
 ## Condiciones del Servicio
 
-### BIENVENIDO A **[webdeveloperhits.com](https://webdeveloperhits.com)**
+### BIENVENIDO A **[webdeveloperhits.com][1]**
 
 Gracias por utilizar nuestros productos y **Servicios** (*"Servicios"*). Los **Servicios** son proporcionados por **webdeveloperhits**.com, ubicado en **Cancún, Quintana Roo, México**.
 
@@ -43,7 +43,7 @@ Usted puede encontrar más información sobre el modo en que **webdeveloperhits*
 
 Cuando un Servicio requiere o incluye software descargable, este software podrá actualizarse automáticamente en su dispositivo cuando haya una nueva versión o función disponible. Algunos **Servicios** pueden permitirle predeterminar sus configuraciones de actualización automática.
 
-**webdeveloperhits** le proporciona una licencia personal, internacional, sin regalías, no cesible y no exclusiva para utilizar el software que **webdeveloperhits** le proporcionó como parte de los **Servicios**. La licencia se proporciona al solo efecto de permitirle utilizar y disfrutar el beneficio de los **Servicios** según los proporciona **webdeveloperhits** y tal como se estipula en las presentes condiciones. Usted no podrá copiar, modificar, distribuir, vender ni otorgar licencia de parte alguna de nuestros **Servicios** o el software incluido, ni podrá realizar ingeniería inversa o intentar extraer el código fuente de dicho software, salvo que estas restricciones estuvieren prohibidas por ley o que usted hubiere obtenido nuestro permiso escrito.
+**webdeveloperhits** le proporciona una licencia personal, internacional, sin regalías, no cesible y no exclusiva para utilizar el software que **webdeveloperhits** le proporcionó como parte de los **Servicios**. La licencia se proporciona al solo efecto de permitirle utilizar y disfrutar el beneficio de los **Servicios** según los proporciona **webdeveloperhits** y tal cómo se estipula en las presentes condiciones. Usted no podrá copiar, modificar, distribuir, vender ni otorgar licencia de parte alguna de nuestros **Servicios** o el software incluido, ni podrá realizar ingeniería inversa o intentar extraer el código fuente de dicho software, salvo que estas restricciones estuvieren prohibidas por ley o que usted hubiere obtenido nuestro permiso escrito.
 
 El software de código abierto es importante para nosotros. Parte del software utilizado en nuestros **Servicios** puede ofrecerse bajo una licencia de código abierto que pondremos a su disposición. Es posible que algunas de las disposiciones de la licencia de código abierto anulen expresamente algunas de estas condiciones.
 
@@ -53,7 +53,7 @@ Cambiamos y mejoramos continuamente nuestros **Servicios**. Podemos agregar o el
 
 Usted puede dejar de utilizar nuestros **Servicios** en cualquier momento, aunque lamentaríamos que lo hiciera. **webdeveloperhits** también puede dejar de brindarle los **Servicios**, o agregar o crear nuevos límites a nuestros **Servicios** en cualquier momento.
 
-Consideramos que usted es propietario de sus datos y que preservar su acceso a dichos datos es importante. Si cancelamos un Servicio, y siempre que ello fuere razonablemente posible, le notificaremos con una anticipación razonable y le brindaremos la posibilidad de obtener información bajo ese Servicio.
+Consideramos que usted es propietario de sus datos y qué preservar su acceso a dichos datos es importante. Si cancelamos un Servicio, y siempre que ello fuere razonablemente posible, le notificaremos con una anticipación razonable y le brindaremos la posibilidad de obtener información bajo ese Servicio.
 
 ### NUESTRAS GARANTÍAS Y EXENCIONES DE RESPONSABILIDAD
 
@@ -88,3 +88,5 @@ Si usted no cumple estas condiciones, y nosotros no tomamos acción inmediata, e
 Si cualquier disposición de estas condiciones resultaré inejecutable, ello no afectará la validez del resto de las condiciones.
 
 Para obtener información sobre las condiciones de uso y la política de privacidad comunicarse con **webdeveloperhits**, favor de enviar un correo a lgzarturo@gmail.com
+
+[1]:	https://webdeveloperhits.com

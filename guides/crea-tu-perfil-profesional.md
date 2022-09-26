@@ -4,7 +4,7 @@ description: "Demuestra tu profesionalismo, versatilidad y el emprendedor que ll
 tags: profile
 ---
 
-En la actualidad la competencia por los mejores empleos es cada vez más brutal y una ventaja es que podemos acceder a mejores herramientas que nos expongan como personas comprometidas y que aprovechamos la tecnología a nuestro favor.
+En la actualidad la competencia por los mejores empleos es cada vez más brutal y una ventaja es que podemos acceder a mejores herramientas que nos expongan cómo personas comprometidas y qué aprovechamos la tecnología a nuestro favor.
 
 ## Perfil profesional digital
 
@@ -26,6 +26,9 @@ Yo hago uso de la mayor cantidad de redes sociales y sitios web para difundir mi
 
 ### Ponte en la mira de los Headhunters
 
-Hay una plataforma que se llama [StarTalent](https://startalent.mx), yo he participado en el desarrollo de la herramienta y fue diseñada con el objetivo de ser una [herramienta que te ayude en la búsqueda de empleo](https://candidatos.starchoice.com.mx/), con el soporte de Headhunter especializados y un alto conocimiento de la relación con altos ejecutivos como dueños, directores, ceo de empresas líderes en mercados mexicanos.
+Hay una plataforma que se llama [StarTalent][1], yo he participado en el desarrollo de la herramienta y fue diseñada con el objetivo de ser una [herramienta que te ayude en la búsqueda de empleo][2], con el soporte de Headhunter especializados y un alto conocimiento de la relación con altos ejecutivos como dueños, directores, ceo de empresas líderes en mercados mexicanos.
 
 Adicionalmente tienen un servicio de Coach Ejecutivo con el cual te pueden ayudar a ser más eficiente tu búsqueda, mejorando las condiciones de trabajo y adecuándose a tus expectativas laborales; todo bajo un esquema seguro, confiable y confidencial.
+
+[1]:	https://startalent.mx
+[2]:	https://candidatos.starchoice.com.mx/

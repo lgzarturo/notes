@@ -12,7 +12,7 @@ Técnicas para crear código libre de errores para mejorar él mantenimiento y a
 
 **¿Por qué es necesario aplicar buenas prácticas de programación?** Todo programador debería estar obligado a crear software basado en buenas prácticas de desarrollo, patrones de diseño, documentación y capacitación continua. En mi caso procuro seguir estándares establecidos, invertir tiempo en lectura sobre desarrollo de nuevas técnicas o metodologías de programación.
 
-Siempre intento pensar como usuario y criticar todo el software que vea, para buscar la manera de como hacerlo mejor y formular una crítica constructiva que me deje algo en que pensar.
+Siempre intento pensar como usuario y criticar todo el software que vea, para buscar la manera de cómo hacerlo mejor y formular una crítica constructiva que me deje algo en que pensar.
 
 Es esencial adoptar buenos principios de programación y adaptarlos a la manera de crear código. En este caso puedo decir que principalmente me siento influenciado por la filosofía de Python donde sus dos principios básicos son la legibilidad y la transparencia, denominando al código que cumple estas características como "**código pythonico**".
 
@@ -38,13 +38,13 @@ De igual manera uno de los desarrolladores de Python Tim Peters escribió el Zen
 - Si la implementación es fácil de explicar, puede que sea una buena idea.
 - Los espacios de nombres (**namespaces**) son una gran idea ¡Hagamos más de esas cosas!
 
-Aplicar estos principios es más complicado de lo que parece, ya que siempre hay que tenerlos presentes al momento de estar escribiendo el código y tomar decisiones en tiempo real (por así decirlo) sobre la manera en como sería más conveniente aplicar. Lo ideal es crear código simple, mantenerlo simple, buscar la solución más lógica y refactorizar.
+Aplicar estos principios es más complicado de lo que parece, ya que siempre hay que tenerlos presentes al momento de estar escribiendo el código y tomar decisiones en tiempo real (por así decirlo) sobre la manera en cómo sería más conveniente aplicar. Lo ideal es crear código simple, mantenerlo simple, buscar la solución más lógica y refactorizar.
 
 Recuerda que la práctica hace al maestro y en el caso de los programadores, mientras más código escribas más practica tendrás para refactorizar, sin embargo mientras más repites el mismo código entonces algo está haciendo mal. Para este párrafo lo mejor es aplicar los principios KISS & DRY.
 
 ### KISS (Keep It Simply Stupid)
 
-En español "**Mantenle Sencillo, ¡Estúpido!**", es un principio que recomienda que el programador debe planear el desarrollo de código de la manera más simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
+En español "**Mantenle Sencillo, ¡Estúpido!**", es un principio que recomienda que el programador debe planear el desarrollo de código de la manera mas simple, codificando instrucciones simples, comprensibles, dividiendo el código en pequeños módulos para minimizar el código de cada módulo.
 
 > Todo debe ser lo más simple posible, no solo simple - **Albert Einstein**.
 
@@ -95,4 +95,6 @@ La refactorización se aplica como una técnica para reestructurar la estructura
 
 Al aplicar la refactorización como un proceso separado, nos aseguramos de no introducir errores al sistema y nos ayuda a identificar posibles bugs debido a que el código estaba mal planeado, a esto se le conoce como limpieza de código.
 
-Para más información revisa el documento en línea "[The Zen of Python](http://www.python.org/dev/peps/pep-0020/)"
+Para más información revisa el documento en línea "[The Zen of Python][1]"
+
+[1]:	http://www.python.org/dev/peps/pep-0020/

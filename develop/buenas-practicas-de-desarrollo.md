@@ -31,7 +31,7 @@ La mayoría de los programadores sabemos que la mayor parte del tiempo tenemos q
 ## Ideas para mejorar como programador
 
 - Nombre de variables, clases o métodos más descriptivos.
-- Siempre pon atención a la indentación del código.
+- Siempre pon atención a la identación del código.
 - Crea o adopta un estándar para escribir código.
 - Decide entre **tabulación** o **espacios** (*2 o 4 espacios*).
 - Longitud de línea no mayores a 120 caracteres.

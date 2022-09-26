@@ -20,7 +20,7 @@ En este artículo quiero exponer los pasos que he adoptado al momento de pensar 
 Algunas de las tareas con las cuales puedes empezar a promocionar tu marca o productos por internet y que te ayudaran a crear las bases para tu estrategia digital son:
 
 - Crea tu espacio en internet, compra tu dominio, publica tu página, empieza a definir tu base de contactos y define cómo quieres que tus clientes te vean.
-- Define los productos a promocionar, establece una base de datos de clientes y que tipo de contacto deberás tener con los clientes.
+- Define los productos a promocionar, establece una base de datos de clientes y qué tipo de contacto deberás tener con los clientes.
 - Promueve tu negocio por medio de internet, mediante herramientas gratuitas como redes sociales.
 - Crea promociones sobre tus productos, define el flujo de conversión, define que tanto le puedes ofrecer a tus clientes, has uso de las redes sociales para difundir tus productos o servicios.
 - Realiza un seguimiento de tus estrategias y determina cuales son las mejoras que tienes que realizar.
