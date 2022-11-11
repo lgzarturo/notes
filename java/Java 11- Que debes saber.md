@@ -20,136 +20,145 @@
 
 ## Operadores
 ### Aritméticos
+```
 Oper	Nombre			Descripción								Ejemplo
-+		Addition		Adds together two values				x + y	
--		Subtraction		Subtracts one value from another		x - y	
-* 	Multiplication	Multiplies two values					x * y	
++ 		Addition		Adds together two values				x + y	
+- 		Subtraction		Subtracts one value from another		x - y	
+* 		Multiplication	Multiplies two values					x * y	
 /		Division		Divides one value by another			x / y	
 %		Modulus			Returns the division remainder			x % y	
 ++		Increment		Increases the value of a variable by 1	++x	
 --		Decrement		Decreases the value of a variable by 1	--x
+```
 
 ### Asignación
-Operador	Ejemplo		Similar a:
-=			x = 5		x = 5	
-+=			x += 3		x = x + 3	
--=			x -= 3		x = x - 3	
-*=			x *= 3		x = x * 3	
-/=			x /= 3		x = x / 3	
-%=			x %= 3		x = x % 3	
-&=			x &= 3		x = x & 3	
-|=			x |= 3		x = x | 3	
-^=			x ^= 3		x = x ^ 3	
-> > =			x \>\>= 3		x = x \>\> 3	
-\<\<=			x \<\<= 3		x = x \<\< 3
+```
+Operador		Ejemplo				Similar a:
+=				x = 5				x = 5	
++=				x += 3				x = x + 3	
+-=				x -= 3				x = x - 3	
+*=				x *= 3				x = x \* 3	
+/=				x /= 3				x = x / 3	
+%=				x %= 3				x = x % 3	
+&=				x &= 3				x = x & 3	
+|=				x |= 3				x = x | 3	
+^=				x ^= 3				x = x ^ 3	
+> > =			x \>\>= 3			x = x \>\> 3	
+\<\<=			x \<\<= 3			x = x \<\< 3
+```
 
 ## Clase String
 - String es una clase inmutable la cual consiste en una colección de caracteres.
 - Las cadenas son constantes, los valores no pueden ser cambiados una vez creados.
+
 ### Metodos:
 
-charAt()				Retorna el carácter en el índice especificado (posición)																char
-codePointAt()			Retorna el valor Unicode del carácter especificado (posición)															int
-codePointBefore()		Retorna el valor Unicode del carácter anterior al especificado															int
-codePointCount()		Retorna la cantidad de caracteres Unicode encontrados en la cadena														int
-compareTo()				Compara 2 cadenas de forma lexicográfica.																				int
-compareToIgnoreCase()	Compara 2 cadenas de forma lexicográfica, ignorando mayúsculas e minúsculas.											int
-concat()				Adjunta una cadena al final de otra cadena.																				String
-contains()				Comprueba si una cadena contiene una secuencia de caracteres.															boolean
-contentEquals()			Comprueba si una cadena contiene exactamente la misma secuencia de caracteres del CharSequence o StringBuffer 			boolean
-copyValueOf()			Returns a String that represents the characters of the character array													String
-endsWith()				Checks whether a string ends with the specified character(s)															boolean
-equals()				Compare two strings. Returns true if the strings are equal, and false if not											boolean
-equalsIgnoreCase()		Compares two strings, ignoring case considerations																		boolean
-format()				Returns a formatted string using the specified locale, format string, and arguments										String
-getBytes()				Encodes this String into a sequence of bytes using the named charset, storing the result into a new byte array			byte[]()
-getChars()				Copies characters from a string to an array of chars																	void
-hashCode()				Returns the hash code of a string																						int
-indexOf()				Returns the position of the first found occurrence of specified characters in a string									int
-intern()				Returns the canonical representation for the string object																String
-isEmpty()				Checks whether a string is empty or not																					boolean
-lastIndexOf()			Returns the position of the last found occurrence of specified characters in a string									int
-length()				Returns the length of a specified string																				int
-matches()				Searches a string for a match against a regular expression, and returns the matches										boolean
-offsetByCodePoints()	Returns the index within this String that is offset from the given index by codePointOffset code points					int
-regionMatches()			Tests if two string regions are equal																					boolean
-replace()				Searches a string for a specified value, and returns a new string where the specified values are replaced				String
-replaceFirst()			Replaces the first occurrence of a substring that matches the given regular expression with the given replacement		String
-replaceAll()			Replaces each substring of this string that matches the given regular expression with the given replacement				String
-split()					Splits a string into an array of substrings																				String[]()
-startsWith()			Checks whether a string starts with specified characters																boolean
-subSequence()			Returns a new character sequence that is a subsequence of this sequence													CharSequence
-substring()				Returns a new string which is the substring of a specified string														String
-toCharArray()			Converts this string to a new character array																			char[]()
-toLowerCase()			Converts a string to lowercase letters																					String
-toString()				Returns the value of a String object																					String
-toUpperCase()			Converts a string to upper case letters																					String
-trim()					Removes whitespace from both ends of a string																			String
-valueOf()				Returns the string representation of the specified value																String
+- charAt() - Retorna el carácter en el índice especificado.
+- codePointAt() - Retorna el valor Unicode del carácter especificado.
+- codePointBefore() - Retorna el valor Unicode del carácter anterior al especificado.
+- codePointCount() - Retorna la cantidad de caracteres Unicode encontrados en la cadena.
+- compareTo() - Compara 2 cadenas de forma lexicográfica.
+- compareToIgnoreCase()	Compara 2 cadenas de forma lexicográfica, ignorando mayúsculas e minúsculas.
+- concat() - Adjunta una cadena al final de otra cadena.
+- contains() - Comprueba si una cadena contiene una secuencia de caracteres.
+- contentEquals() - Comprueba si una cadena contiene exactamente la misma secuencia de caracteres del CharSequence o StringBuffer.
+- copyValueOf() - Returns a String that represents the characters of the character array.
+- endsWith() - Checks whether a string ends with the specified character(s).
+- equals() - Compare two strings. Returns true if the strings are equal, and false if not.
+- equalsIgnoreCase() - Compares two strings, ignoring case considerations.
+- format() - Returns a formatted string using the specified locale, format string, and arguments.
+- getBytes() - Encodes this String into a sequence of bytes using the named charset, storing the result into a new byte array.
+- getChars() - Copies characters from a string to an array of chars.
+- hashCode() - Returns the hash code of a string.
+- indexOf() - Returns the position of the first found occurrence of specified characters in a string.
+- intern() - Returns the canonical representation for the string object.
+- isEmpty() - Checks whether a string is empty or not.
+- lastIndexOf() - Returns the position of the last found occurrence of specified characters in a string.
+- length() - Returns the length of a specified string.
+- matches() - Searches a string for a match against a regular expression, and returns the matches.
+- offsetByCodePoints() - Returns the index within this String that is offset from the given index by codePointOffset code points.
+- regionMatches() - Tests if two string regions are equal.
+- replace() - Searches a string for a specified value, and returns a new string where the specified values are replaced.
+- replaceFirst() - Replaces the first occurrence of a substring that matches the given regular expression with the given replacement.
+- replaceAll() - Replaces each substring of this string that matches the given regular expression with the given replacement.
+- split() - Splits a string into an array of substrings.
+- startsWith() - Checks whether a string starts with specified characters.
+- subSequence() - Returns a new character sequence that is a subsequence of this sequence.
+- substring() - Returns a new string which is the substring of a specified string.
+- toCharArray() - Converts this string to a new character array.
+- toLowerCase() - Converts a string to lowercase letters.
+- toString() - Returns the value of a String object.
+- toUpperCase() - Converts a string to upper case letters.
+- trim() - Removes whitespace from both ends of a string.
+- valueOf() - Returns the string representation of the specified value.
 
 Caracteres especiales:
+```
 Escape character	Result	Description
 \'		'			Single quote
 \"		"			Double quote
 \\		\			Backslash
+```
 
 
 ## Clase Math.
-- Clase de Java la cual contiene métodos para realizar operaciones matemáticas básicas, exponenciales, logarítmicas, cuadráticas y trigonométricas.
+> Clase de Java la cual contiene métodos para realizar operaciones matemáticas básicas, exponenciales, logarítmicas, cuadráticas y trigonométricas.
 
-	Method					Description	Return Type
-	abs(x)					Returns the absolute value of x																					double|float|int|long
-	acos(x)					Returns the arccosine of x, in radians																					double
-	asin(x)					Returns the arcsine of x, in radians																					double
-	atan(x)					Returns the arctangent of x as a numeric value between -PI/2 and PI/2 radians											double
-	atan2(y,x)				Returns the angle theta from the conversion of rectangular coordinates (x, y) to polar coordinates (r, theta).			double
-	cbrt(x)					Returns the cube root of x																								double
-	ceil(x)					Returns the value of x rounded up to its nearest integer																double
-	copySign(x, y)			Returns the first floating point x with the sign of the second floating point y											double
-	cos(x)					Returns the cosine of x (x is in radians)																				double
-	cosh(x)					Returns the hyperbolic cosine of a double value																			double
-	exp(x)					Returns the value of Ex																									double
-	expm1(x)				Returns ex -1																											double
-	floor(x)				Returns the value of x rounded down to its nearest integer																double
-	getExponent(x)			Returns the unbiased exponent used in x																					int
-	hypot(x, y)				Returns sqrt(x2 +y2) without intermediate overflow or underflow															double
-	IEEEremainder(x, y)		Computes the remainder operation on x and y as prescribed by the IEEE 754 standard										double
-	log(x)					Returns the natural logarithm (base E) of x																				double
-	log10(x)				Returns the base 10 logarithm of x																						double
-	log1p(x)				Returns the natural logarithm (base E) of the sum of x and 1															double
-	max(x, y)				Returns the number with the highest value																		double|float|int|long
-	min(x, y)				Returns the number with the lowest value																		double|float|int|long
-	nextAfter(x, y)			Returns the floating point number adjacent to x in the direction of y												double|float
-	nextUp(x)				Returns the floating point value adjacent to x in the direction of positive infinity								double|float
-	pow(x, y)				Returns the value of x to the power of y																				double
-	random()				Returns a random number between 0 and 1																					double
-	round(x)				Returns the value of x rounded to its nearest integer																	int
-	rint(x)					Returns the double value that is closest to x and equal to a mathematical integer										double
-	signum(x)				Returns the sign of x																									double
-	sin(x)					Returns the sine of x (x is in radians)																					double
-	sinh(x)					Returns the hyperbolic sine of a double value																			double
-	sqrt(x)					Returns the square root of x																							double
-	tan(x)					Returns the tangent of an angle																							double
-	tanh(x)					Returns the hyperbolic tangent of a double value																		double
-	toDegrees(x)			Converts an angle measured in radians to an approx. equivalent angle measured in degrees								double
-	toRadians(x)			Converts an angle measured in degrees to an approx. angle measured in radians											double
-	ulp(x)					Returns the size of the unit of least precision (ulp) of x															double|float
+- abs(x) - Returns the absolute value of x (double|float|int|long)
+- acos(x) - Returns the arccosine of x, in radians.
+- asin(x) - Returns the arcsine of x, in radians.
+- atan(x) - Returns the arctangent of x as a numeric value between -PI/2 and PI/2 radians.
+- atan2(y,x) - Returns the angle theta from the conversion of rectangular coordinates (x, y) to polar coordinates (r, theta).
+- cbrt(x) - Returns the cube root of x.
+- ceil(x) - Returns the value of x rounded up to its nearest integer.
+- copySign(x, y) - Returns the first floating point x with the sign of the second floating point y.
+- cos(x) - Returns the cosine of x (x is in radians).
+- cosh(x) - Returns the hyperbolic cosine of a double value.
+- exp(x) - Returns the value of Ex.
+- expm1(x) - Returns ex -1.
+- floor(x) - Returns the value of x rounded down to its nearest integer.
+- getExponent(x) - Returns the unbiased exponent used in x.
+- hypot(x, y) - Returns sqrt(x2 +y2) without intermediate overflow or underflow.
+- IEEEremainder(x, y) - Computes the remainder operation on x and y as prescribed by the IEEE 754 standard.
+- log(x) - Returns the natural logarithm (base E) of x.
+- log10(x) - Returns the base 10 logarithm of x.
+- log1p(x) - Returns the natural logarithm (base E) of the sum of x and 1.
+- max(x, y) - Returns the number with the highest value.
+- min(x, y) - Returns the number with the lowest value.
+- nextAfter(x, y) - Returns the floating point number adjacent to x in the direction of y.
+- nextUp(x) - Returns the floating point value adjacent to x in the direction of positive infinity.
+- pow(x, y) - Returns the value of x to the power of y.
+- random() - Returns a random number between 0 and 1.
+- round(x) - Returns the value of x rounded to its nearest integer.
+- rint(x) - Returns the double value that is closest to x and equal to a mathematical integer.
+- signum(x) - Returns the sign of x.
+- sin(x) - Returns the sine of x (x is in radians).
+- sinh(x) - Returns the hyperbolic sine of a double value.
+- sqrt(x) - Returns the square root of x.
+- tan(x) - Returns the tangent of an angle.
+- tanh(x) - Returns the hyperbolic tangent of a double value.
+- toDegrees(x) - Converts an angle measured in radians to an approx. equivalent angle measured in degrees.
+- toRadians(x) - Converts an angle measured in degrees to an approx. angle measured in radians.
+- ulp(x) - Returns the size of the unit of least precision (ulp) of x.
 
 ## Modificadores
 Modificadores de acceso:
-public			The code is accessible for all classes	
-private			The code is only accessible within the declared class	
-default			The code is only accessible in the same package. This is used when you don't specify a modifier.
-protected		The code is accessible in the same package and subclasses. You will learn more about subclasses and superclasses in the Inheritance chapter
+- public: The code is accessible for all classes	
+- private: The code is only accessible within the declared class	
+- default: The code is only accessible in the same package. This is used when you don't specify a modifier.
+- protected: The code is accessible in the same package and subclasses. You will learn more about subclasses and superclasses in the Inheritance chapter
+
 Modificadores no de acceso:
-final			Attributes and methods cannot be overridden/modified
-static			Attributes and methods belongs to the class, rather than an object
-abstract		Can only be used in an abstract class, and can only be used on methods. 
+- final: Attributes and methods cannot be overridden/modified
+- static: Attributes and methods belongs to the class, rather than an object
+- abstract: Can only be used in an abstract class, and can only be used on methods. 
+
 The method does not have a body, for example abstract void run();. 
 The body is provided by the subclass (inherited from). 
-transient		Attributes and methods are skipped when serializing the object containing them
-synchronized	Methods can only be accessed by one thread at a time
-volatile		The value of an attribute is not cached thread-locally, and is always read from the "main memory"
+
+- transient: Attributes and methods are skipped when serializing the object containing them
+- synchronized: Methods can only be accessed by one thread at a time
+- volatile: The value of an attribute is not cached thread-locally, and is always read from the "main memory"
 
 ## Encapsulacion
 - El concepto de encapsulación hace que la data sensible se oculta del usuario, para esto se debe considerar lo siguiente:
@@ -185,7 +194,7 @@ volatile		The value of an attribute is not cached thread-locally, and is always 
 	- Para crear un Enum se usa la palabra reservada Enum(sin class ni interface) y separan las constantes con una coma. Deben estar en mayúsculas.
 
 ## Array
-- Los arreglos se usan para guardar múltiples valores en una sola variable, para declarar un array se utilizan los corchetes []().
+- Los arreglos se usan para guardar múltiples valores en una sola variable, para declarar un array se utilizan los corchetes `[]`.
 	- Para acceder al valor de un arreglo se hace mediante el índice, el cual inicia en 0.
 ## Set
 - Es una lista de elementos los cuales son únicos entre sí.
@@ -235,22 +244,24 @@ volatile		The value of an attribute is not cached thread-locally, and is always 
 	- OutputStream:
 		- Las aplicaciones usan el OutputStream para escribir datos a un destino, puede ser un archivo, un arreglo, dispositivos periféricos o sockets.
 
----- --------------------------------------------------------------------------------------------------------------------------------------------------------------
+---- 
 
 Clases Wrapper:
 - Son clases que proveen métodos para trabajar con tipos de datos primitivos.
 
+	```
 	Primitive Data Type		Wrapper Class
-	byte						Byte
-	short						Short
-	int							Integer
-	long						Long
-	float						Float
-	double						Double
-	boolean						Boolean
-	char						Character
+		byte						Byte
+		short						Short
+		int							Integer
+		long						Long
+		float						Float
+		double						Double
+		boolean						Boolean
+		char						Character
+	```
 
----- --------------------------------------------------------------------------------------------------------------------------------------------------------------
+---- 
 
 Clase Throwable:
 - Es la clase padre de todas las excepciones en Java. Solo los objetos que son instanciados por esta clase o sus hijos, son lanzadas por la JVM o pueden ser lanzadas  por la declaración throw.
@@ -296,7 +307,7 @@ Clase Error:
 	- Ocurren en tiempo de ejecución.
 	- Son errores no verificados.
 
----- --------------------------------------------------------------------------------------------------------------------------------------------------------------
+---- 
 
 HashCode: Es el valor de 32 bits que identifica la instancia de una clase.
 final: Permite que la clase no pueda ser heredada de ninguna otra.
@@ -410,7 +421,7 @@ Patrones de Diseño:
 	Factory:
 	- Se enfoca en cómo se crea un objeto sin exponer la lógica de creación.
 	Builder:
-	- Provee flexibilidad en la creación de objetos.		
+	- Provee flexibilidad en la creación de objetos.
 
 Streams:
 - Se introdujo en JAVA 8
@@ -494,93 +505,95 @@ API (Application Programming Interface):
 			- Es un protocolo de comunicación de sistemas que se conectan usando HTTP con XML, por lo general se usan para almacenar usuarios y contraseñas.
 			- La ventaja de SOAP es que el manejo de errores es más detallado y manejable.
 
-HTTP:
+## HTTP
 Principales códigos de respuesta:
-Respuestas informativas (100–199).
-Respuestas satisfactorias (200–299).
-GET: El recurso se ha obtenido y se transmite en el cuerpo del mensaje.
-HEAD: Los encabezados de entidad están en el cuerpo del mensaje.
-PUT o POST: El recurso que describe el resultado de la acción se transmite en el cuerpo del mensaje.
-TRACE: El cuerpo del mensaje contiene el mensaje de solicitud recibido por el servidor.
-Redirecciones (300–399).
-Errores de los clientes (400–499).
-Errores de los servidores (500–599).
+- Respuestas informativas (100–199).
+- Respuestas satisfactorias (200–299).
+- Redirecciones (300–399).
+- Errores de los clientes (400–499).
+- Errores de los servidores (500–599).
+
+Métodos:
+- GET: El recurso se ha obtenido y se transmite en el cuerpo del mensaje.
+- HEAD: Los encabezados de entidad están en el cuerpo del mensaje.
+- PUT o POST: El recurso que describe el resultado de la acción se transmite en el cuerpo del mensaje.
+- TRACE: El cuerpo del mensaje contiene el mensaje de solicitud recibido por el servidor.
 
 
-PRINCIPIOS DE LA PROGRAMACIÓN:
+## PRINCIPIOS DE LA PROGRAMACIÓN:
 
-SOLID:
-Single Responsability:
+### SOLID
+#### Single Responsability:
 - Cada clase tiene una sola responsabilidad, es decir de una sola parte del sistema, una sola cosa, por ejemplo si tenemos una clase que crea usuarios pero dentro de la creación estamos incluyendo el código para encriptar su clave, estaríamos rompiendo el principio, la idea es que cada clase sea independiente.
 
-Open Close:
+#### Open Close:
 - Una entidad de software debe estar abierta para creación pero cerrada para modificación, si deseas añadir una funcionalidad no debes modificar el código, debes hacerlo aparte, aquí se practica herencia y polimorfismo.
 
-Liskov Substitution:
+#### Liskov Substitution:
 - Toda clase que es hija de una clase debe poder utilizarse como si fuera el padre.
 
-Interface Segretation:
+#### Interface Segretation:
 - Es mejor tener clases pequeñas y especializadas que una sola complicada, usar interfaces especializadas.
 
-Dependency Inversion
+#### Dependency Inversion
 - Los módulos de alto nivel no pueden depender de bajo nivel y viceversa, usar capas abstractas como DAO, Service, por ejemplo podríamos cambiar la base de datos usando CRUDRepository desde mysql a mongodb sin afectar el código.
 
-Resumen:
+#### Resumen:
 - Código mantenible, legible y fácil de entender y cambiar.
 
-KISS | KEEP IT SIMPLE, STUPID:
+#### KISS | KEEP IT SIMPLE, STUPID:
 - Mantener la cosas simples
 - La implementación debe ser sencilla
 - Evitar soluciones muy complejas.
 
-DRY | DON'T REPEAT YOURSELF:
+#### DRY | DON'T REPEAT YOURSELF:
 - No repetir código, es similar al principio de responsabilidad única
 - Código legible, reusable, testable, mantenible, desarrollo más rápido.
 
-YAGNI | YOU AREN'T GONNA NEED IT :
+#### YAGNI | YOU AREN'T GONNA NEED IT :
 - Evitar tener código que no sea necesario.
 - Si no lo necesitas simplemente no lo implementes.
 - Evitar código inflado.
 
-PATRONES DE DISEÑO:
+## PATRONES DE DISEÑO:
 - Un patrón de diseño es una receta, un plan de acción, una descripción de un problema y cómo solucionarlo, define una solución a un problema recurrente.
 
-- Patrones creacionales:
-	- Solucionar problemas para creación de objetos.
+### Patrones creacionales:
+- Solucionar problemas para creación de objetos.
 	1.- FACTORY:
 	- El método responsable de la creación de objetos de forma polimórfica, se utilizan las interfaces por lo cual no se genera dependencia entre las mismas.
 	2.- ABSTRACT FACTORY:
 	- Es la reducción de muchas factorías individuales, se tendría una factoría abstracta que implementa las demás factorías.
 	3.- SINGLETON:
 	- Asegurar de que existe solo una instancia de una clase concreta y solo una, como base el constructor es privado y se declara  una función estática privada para poder validar si esta instancia ya existe, en caso de existir devuelve la misma instancia en caso de no la crea. Parece una variable GLOBAL, se complica el test unitario.
-- Patrones estructurales:
-	- Ayuda a configurar relaciones entre objetos.
+### Patrones estructurales:
+- Ayuda a configurar relaciones entre objetos.
 	1.- DECORATOR:
 	- Permite extender funcionalidades de una clase sin necesidad de recurrir de herencia. Composición VS Herencia.
 		- Se crea una clase general y luego decoradores para que puedan servir a otras clases.
 		- Los decoradores son componentes y también tiene un componente dentro.
 		- Se debe tener bien mapeado el orden de los decoradores.
-- Patrones de comportamiento:
-	- Ayuda con la interacción entre clases u objetos
+### Patrones de comportamiento:
+- Ayuda con la interacción entre clases u objetos
 	1.- STRATEGY:
 	- Permite ejecutar diferentes lógicas de forma indiferente, depende de las abstracciones. Por ejemplo, crear métodos generales en interfaces para poder usar un mismo de forma independiente.
 	2.- OBSERVER:
 	- Se necesita notificar cambios de estado a un objeto, es decir hay un objeto observable y un observador.
 
-PATRONES DE ARQUITECTURA:
+## PATRONES DE ARQUITECTURA:
 
-MONOLITOS:
+### MONOLITOS:
 - Complejos de escalar y modificar.
 - Escalamiento Horizontal
 
-SOA:
+### SOA:
 - Orientada a servicios.
 - Como monolitos independientes.
 - Todo debe coordinarse perfectamente y no hay mucha libertad para el desarrollo.
 - Cómo integra todo en uno solo, existe aún el problema de la escalabilidad.
 - Escalamiento vertical
 
-MICROSERVICIOS:
+### MICROSERVICIOS:
 - Desarrollo de forma independiente tanto en tecnología como equipos de desarrollo.
 - Menos tiempo en desplegar una solución.
 - Ya no se limita a una sola tecnología.
@@ -595,7 +608,7 @@ MICROSERVICIOS:
 	- Descomposición por capacidad del negocio:
 		- Más va apuntado a la necesidad del negocio en sí, independientemente de la tecnología que se pueda implementar.
 		- Patron por subdominios (DDD):
-			- 
+			\- 
 		- Patron Strangle
 			- Cuando se hacen migraciones de on premises a cloud permite ajustar las funcionalidades a microservicios.
 	2.- INFRAESTRUCTURA:
@@ -643,7 +656,7 @@ MICROSERVICIOS:
 			- Cómo se debe integrar con servicios externos desde cero, que los contratos no rompan nuestros servicios. un microservicio intermedio entre servicios externos y nuestros.
 
 
-HERRAMIENTAS DE MICROSERVICIOS:
+### HERRAMIENTAS DE MICROSERVICIOS:
 1.- Cache distribuida (REDIS | HAZELCAST):
 - Es una memoria en caché compartida por varios servidores de aplicaciones, que se mantiene como un servicio externo a estos servidores.
 	- Mejora el rendimiento
@@ -656,6 +669,7 @@ HERRAMIENTAS DE MICROSERVICIOS:
 
 2.- Mensajería de datos:
 - KAFKA
+- AWS SQS, AWS SNS
 
 3.- Centralización de configuración:
 - ZOOKEEPER
@@ -668,14 +682,7 @@ HERRAMIENTAS DE MICROSERVICIOS:
 
 6.- DOCKER / KUBERNETES
 
-SPRING BOOT:
-1.- SPRING CACHE:
-- @Cacheable: Guardar y obtener elementos
-	- @CachePut: Actualizar
-	- @CacheEvict: Eliminar
-	- @EnableCaching: habilitar uso de cache.
-
-PREGUNTAS Y RESPUESTAS DE SPRING:
+## PREGUNTAS Y RESPUESTAS DE SPRING:
 
 - DIFERENCIA ENTRE SPRING BOOT Y SPRING
 	- Spring boot es un proyecto spring pero con auto configuración, servidor embebido y ya no necesita los archivos XML de configuración.
@@ -699,7 +706,7 @@ PREGUNTAS Y RESPUESTAS DE SPRING:
 	- Hibernate es una implementación particular de JPA (Spring usa por defecto)
 
 - SPRING INITIALIZR
-	- Plataforma online para la creación de proyectos en spring boot, descarga un .rar que luego se importa al IDE de preferencia IntelliJ, STS o Eclipse.
+	- Plataforma online para la creación de proyectos en spring boot, descarga un `.rar` que luego se importa al IDE de preferencia IntelliJ, STS o Eclipse.
 
 - ESTEREOTIPOS:
 	- Son 4, @Service @Repository @Controller y @Component
@@ -757,5 +764,10 @@ PREGUNTAS Y RESPUESTAS DE SPRING:
 - SPRING CLOUD:
 	- Implementación de spring boot para soluciones de microservicios, Config y Api Gateway
 
-
+## SPRING BOOT:
+1.- SPRING CACHE:
+- @Cacheable: Guardar y obtener elementos
+	- @CachePut: Actualizar
+	- @CacheEvict: Eliminar
+	- @EnableCaching: habilitar uso de cache.
 
