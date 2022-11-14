@@ -41,47 +41,50 @@ Espero que el contenido sea de tu agrado.
 - [12 lenguajes de programación][14]
 - [5 formas de escribir código limpio][15]
 - [7 libros sobre programación que son esenciales][16]
+- [Notación big-o][17]
+- [Esenciales de python, notas sobre desarrollo][18]
 
 ---
 
 ## Marketing Digital
 
-- [Formulas para crear KPIs y medir resultados][17]
-- [Ideas para mejorar el posicionamiento web][18]
-- [6 pasos para hacer un marketing efectivo][19]
-- [Crea una estrategia efectiva para tu campaña de correos][20]
-- [Optimiza tu SEO para aparecer en las búsquedas de Google][21]
+- [Formulas para crear KPIs y medir resultados][19]
+- [Ideas para mejorar el posicionamiento web][20]
+- [6 pasos para hacer un marketing efectivo][21]
+- [Crea una estrategia efectiva para tu campaña de correos][22]
+- [Optimiza tu SEO para aparecer en las búsquedas de Google][23]
+- [Uso de parámetros UTM para campañas de e-commerce][24]
 
 ---
 
 ## UX/UI
 
-- [¿Qué es el diseño responsivo?][22]
-- [Snippets sobre interfaces y frontend][23]
+- [¿Qué es el diseño responsivo?][25]
+- [Snippets sobre interfaces y frontend][26]
 
 ---
 
 ## Tools y tips
 
-- [Aplica buenas practicas a WordPress][24]
-- [Usa GitHub de la mejor forma posible][25]
-- [Herramientas para ser mas productivo en desarrollo][26]
-- [Mejora el rendimiento de tu sitio web][27]
-- [Tema de Visual Studio Code - The Lone Coder][28]
+- [Aplica buenas practicas a WordPress][27]
+- [Usa GitHub de la mejor forma posible][28]
+- [Herramientas para ser mas productivo en desarrollo][29]
+- [Mejora el rendimiento de tu sitio web][30]
+- [Tema de Visual Studio Code - The Lone Coder][31]
 
 ---
 
 ## Autor
 
-Contenido creado por [Arturo López][29].
+Contenido creado por [Arturo López][32].
 
-- [20 frases para el éxito][30]
-- [Arturo López en twitter][31]
-- [Perfil de desarrollo en GitHub][32]
-- [Perfil profesional como Ingeniero de Software][33]
-- [Un poco de arte y dibujo en instagram][34]
-- [Un lugar para buscar inspiración][35]
-- [Re-publicando contenido][36]
+- [20 frases para el éxito][33]
+- [Arturo López en twitter][34]
+- [Perfil de desarrollo en GitHub][35]
+- [Perfil profesional como Ingeniero de Software][36]
+- [Un poco de arte y dibujo en instagram][37]
+- [Un lugar para buscar inspiración][38]
+- [Re-publicando contenido][39]
 
 [1]:	java/Java%2011-%20Que%20debes%20saber.md
 [2]:	react/Esenciales%20de%20JavaScript.md
@@ -99,23 +102,26 @@ Contenido creado por [Arturo López][29].
 [14]:	develop/los-12-mejores-lenguajes-de-programacion.md
 [15]:	develop/5-formas-de-escribir-codigo-limpio.md
 [16]:	lifehacks/7-libros-de-programacion-que-debes-leer.md
-[17]:	marketing/marketing-e-commerce-kpi.md
-[18]:	marketing/seo-aplicado-en-sitios-web.md
-[19]:	marketing/marketing-efectivo.md
-[20]:	marketing/estrategia-email-marketing.md
-[21]:	marketing/aparece-en-las-busquedas-de-google.md
-[22]:	uxui/sitios-web-responsivos.md
-[23]:	uxui/gist-snippets-sobre-interfaces.md
-[24]:	tools/checklist-wordpress.md
-[25]:	tools/github-cheat-sheet.md
-[26]:	tools/herramientas-de-desarrollo.md
-[27]:	tools/herramientas-mejorar-rendimiento-sitios-web.md
-[28]:	tools/the-lone-coder-theme-for-vscode.md
-[29]:	author/arturo-lopez.md
-[30]:	lifehacks/20-frases-para-el-exito.md
-[31]:	https://twitter.com/lgzarturo
-[32]:	https://github.com/lgzarturo
-[33]:	https://www.linkedin.com/in/lgzarturo/
-[34]:	https://www.instagram.com/lgzarturo/
-[35]:	https://www.pinterest.com.mx/arthurolg/
-[36]:	https://lgzarturo.tumblr.com/
+[17]:	algorithms/big-o-notation.md
+[18]:	python/python-essentials.md
+[19]:	marketing/marketing-e-commerce-kpi.md
+[20]:	marketing/seo-aplicado-en-sitios-web.md
+[21]:	marketing/marketing-efectivo.md
+[22]:	marketing/estrategia-email-marketing.md
+[23]:	marketing/aparece-en-las-busquedas-de-google.md
+[24]:	web/querystring-utm-params.md
+[25]:	uxui/sitios-web-responsivos.md
+[26]:	uxui/gist-snippets-sobre-interfaces.md
+[27]:	tools/checklist-wordpress.md
+[28]:	tools/github-cheat-sheet.md
+[29]:	tools/herramientas-de-desarrollo.md
+[30]:	tools/herramientas-mejorar-rendimiento-sitios-web.md
+[31]:	tools/the-lone-coder-theme-for-vscode.md
+[32]:	author/arturo-lopez.md
+[33]:	lifehacks/20-frases-para-el-exito.md
+[34]:	https://twitter.com/lgzarturo
+[35]:	https://github.com/lgzarturo
+[36]:	https://www.linkedin.com/in/lgzarturo/
+[37]:	https://www.instagram.com/lgzarturo/
+[38]:	https://www.pinterest.com.mx/arthurolg/
+[39]:	https://lgzarturo.tumblr.com/

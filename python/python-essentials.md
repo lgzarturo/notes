@@ -1,4 +1,6 @@
-# Python
+# python-essentials
+
+## Python
 Este es un lenguaje muy popular, cada año toma mas fuerza y se mantiene relevante en la industria como un lenguaje de propósito general.
 
 Por lo tanto, hay muchas razones por las que Python es relevante para la industria de TI de hoy en día. 

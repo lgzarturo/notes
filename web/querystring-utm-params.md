@@ -1,4 +1,8 @@
-# Parametros UTM
+# querystring-utm-params
+
+## Parámetros UTM
+
+> Este tipo de parámetros se usa para campañas de marketing y landing pages.
 
 Los parámetros UTM son `querystrings` que se pasan por la url, son de ayuda para el tacking en campañas de e-commerce.
 
