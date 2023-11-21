@@ -10,6 +10,12 @@ Espero que el contenido sea de tu agrado.
 
 ---
 
+## Php
+
+- [Configurar xDebug][40]
+
+---
+
 ## Java
 
 - [Java 11, cosas que debes saber][1]
@@ -86,42 +92,43 @@ Contenido creado por [Arturo López][32].
 - [Un lugar para buscar inspiración][38]
 - [Re-publicando contenido][39]
 
-[1]:	java/Java%2011-%20Que%20debes%20saber.md
-[2]:	react/Esenciales%20de%20JavaScript.md
-[3]:	react/Programacio%CC%81n%20funcional.md
-[4]:	react/Panorama%20general%20de%20React.md
-[5]:	react/Librari%CC%81as%20recomendadas.md
-[6]:	api.md
-[7]:	frontend.md
-[8]:	tagmanager.md
-[9]:	mysql.md
-[10]:	java.md
-[11]:	amplify.md
-[12]:	develop/buenas-practicas-de-desarrollo.md
-[13]:	develop/las-4-etapas-del-desarrollo.md
-[14]:	develop/los-12-mejores-lenguajes-de-programacion.md
-[15]:	develop/5-formas-de-escribir-codigo-limpio.md
-[16]:	lifehacks/7-libros-de-programacion-que-debes-leer.md
-[17]:	algorithms/big-o-notation.md
-[18]:	python/python-essentials.md
-[19]:	marketing/marketing-e-commerce-kpi.md
-[20]:	marketing/seo-aplicado-en-sitios-web.md
-[21]:	marketing/marketing-efectivo.md
-[22]:	marketing/estrategia-email-marketing.md
-[23]:	marketing/aparece-en-las-busquedas-de-google.md
-[24]:	web/querystring-utm-params.md
-[25]:	uxui/sitios-web-responsivos.md
-[26]:	uxui/gist-snippets-sobre-interfaces.md
-[27]:	tools/checklist-wordpress.md
-[28]:	tools/github-cheat-sheet.md
-[29]:	tools/herramientas-de-desarrollo.md
-[30]:	tools/herramientas-mejorar-rendimiento-sitios-web.md
-[31]:	tools/the-lone-coder-theme-for-vscode.md
-[32]:	author/arturo-lopez.md
-[33]:	lifehacks/20-frases-para-el-exito.md
-[34]:	https://twitter.com/lgzarturo
-[35]:	https://github.com/lgzarturo
-[36]:	https://www.linkedin.com/in/lgzarturo/
-[37]:	https://www.instagram.com/lgzarturo/
-[38]:	https://www.pinterest.com.mx/arthurolg/
-[39]:	https://lgzarturo.tumblr.com/
+[1]: java/Java%2011-%20Que%20debes%20saber.md
+[2]: react/Esenciales%20de%20JavaScript.md
+[3]: react/Programacio%CC%81n%20funcional.md
+[4]: react/Panorama%20general%20de%20React.md
+[5]: react/Librari%CC%81as%20recomendadas.md
+[6]: api.md
+[7]: frontend.md
+[8]: tagmanager.md
+[9]: mysql.md
+[10]: java.md
+[11]: amplify.md
+[12]: develop/buenas-practicas-de-desarrollo.md
+[13]: develop/las-4-etapas-del-desarrollo.md
+[14]: develop/los-12-mejores-lenguajes-de-programacion.md
+[15]: develop/5-formas-de-escribir-codigo-limpio.md
+[16]: lifehacks/7-libros-de-programacion-que-debes-leer.md
+[17]: algorithms/big-o-notation.md
+[18]: python/python-essentials.md
+[19]: marketing/marketing-e-commerce-kpi.md
+[20]: marketing/seo-aplicado-en-sitios-web.md
+[21]: marketing/marketing-efectivo.md
+[22]: marketing/estrategia-email-marketing.md
+[23]: marketing/aparece-en-las-busquedas-de-google.md
+[24]: web/querystring-utm-params.md
+[25]: uxui/sitios-web-responsivos.md
+[26]: uxui/gist-snippets-sobre-interfaces.md
+[27]: tools/checklist-wordpress.md
+[28]: tools/github-cheat-sheet.md
+[29]: tools/herramientas-de-desarrollo.md
+[30]: tools/herramientas-mejorar-rendimiento-sitios-web.md
+[31]: tools/the-lone-coder-theme-for-vscode.md
+[32]: author/arturo-lopez.md
+[33]: lifehacks/20-frases-para-el-exito.md
+[34]: https://twitter.com/lgzarturo
+[35]: https://github.com/lgzarturo
+[36]: https://www.linkedin.com/in/lgzarturo/
+[37]: https://www.instagram.com/lgzarturo/
+[38]: https://www.pinterest.com.mx/arthurolg/
+[39]: https://lgzarturo.tumblr.com/
+[40]: php/php_install.md
